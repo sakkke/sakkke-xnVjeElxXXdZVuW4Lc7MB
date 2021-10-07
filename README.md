@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm sakkke :)
 
+**dotfiles:**
+
+[![sakkke/dotfiles](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=sakkke&repo=dotfiles)](https://github.com/sakkke/dotfiles)
+
 **Stats:**
 
 [![sakkke's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=nord&username=sakkke)](https://github.com/anuraghazra/github-readme-stats)
