@@ -17,7 +17,7 @@ git clone --depth=1 https://github.com/sakkke/dotfiles ~/.dotfiles
 ~/.dotfiles/uninstall
 ```
 
-**Favorites:**
+**Like:**
 
 ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-2e3440?logo=Alpine%20Linux&style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-2e3440?logo=Arch%20Linux&style=for-the-badge)
