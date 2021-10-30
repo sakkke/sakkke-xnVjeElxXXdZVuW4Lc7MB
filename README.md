@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm sakkke :)
 
+**Templates:**
+
+[![sakkke/svelte-ultimate-template](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=sakkke&repo=svelte-ultimate-template)](https://github.com/sakkke/svelte-ultimate-template)
+
 **dotfiles:**
 
 [![sakkke/dotfiles](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=sakkke&repo=dotfiles)](https://github.com/sakkke/dotfiles)
