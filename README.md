@@ -2,6 +2,7 @@
 
 **Templates:**
 
+[![sakkke/nodejs-ultimate-template](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=sakkke&repo=nodejs-ultimate-template)](https://github.com/sakkke/nodejs-ultimate-template)
 [![sakkke/svelte-ultimate-template](https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=sakkke&repo=svelte-ultimate-template)](https://github.com/sakkke/svelte-ultimate-template)
 
 **dotfiles:**
