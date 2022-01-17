@@ -56,7 +56,8 @@ git clone --depth=1 https://github.com/sakkke/dotfiles ~/.dotfiles
 
 **My Icon:**
 
-https://codepen.io/sakkke/pen/xxrRxYm
+- https://codepen.io/sakkke/pen/gOGqVLO
+- https://codepen.io/sakkke/pen/LYzarNP (circle version)
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
