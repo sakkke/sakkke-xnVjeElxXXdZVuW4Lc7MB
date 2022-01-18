@@ -54,10 +54,10 @@ git clone --depth=1 https://github.com/sakkke/dotfiles ~/.dotfiles
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&username=sakkke)](https://github.com/anuraghazra/github-readme-stats)
 
-**My Icons:**
+**Others:**
 
-- https://codepen.io/sakkke/pen/gOGqVLO
-- https://codepen.io/sakkke/pen/LYzarNP (circle version)
+- [Icon](https://codepen.io/sakkke/pen/gOGqVLO)
+- [Icon (circle version)](https://codepen.io/sakkke/pen/LYzarNP)
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
