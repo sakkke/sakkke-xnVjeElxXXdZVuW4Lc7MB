@@ -7,6 +7,8 @@ Thank you 😄
 
 **Stats:**
 
+[![sakkke's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=nord&username=sakkke)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
 /></a>
