@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm sakkke :)
 
+<a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
+/></a>
+
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
