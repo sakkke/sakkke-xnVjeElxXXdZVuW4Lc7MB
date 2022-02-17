@@ -5,9 +5,16 @@ I like to give form to ideas as code.
 I'm currently studying English 🔰  
 Thank you 😄
 
+**Stats:**
+
 <a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
 /></a>
+
+**Others:**
+
+- [Icon](https://codepen.io/sakkke/pen/gOGqVLO)
+- [Icon (circle version)](https://codepen.io/sakkke/pen/LYzarNP)
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
