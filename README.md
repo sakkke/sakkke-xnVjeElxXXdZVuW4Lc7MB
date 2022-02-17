@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm sakkke :)
 
+I'm a high school student in Japan.  
+I like to give form to ideas as code.  
+I'm currently studying English 🔰  
+Thank you 😄
+
 <a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
 /></a>
