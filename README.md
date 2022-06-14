@@ -33,7 +33,7 @@ Thank you 😄
 
 **Stats:**
 
-[![sakkke's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=nord&username=sakkke)](https://github.com/anuraghazra/github-readme-stats)
+[![sakkke's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&username=sakkke)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
