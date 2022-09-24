@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😀 I’m Konosuke, `17` years old!
-- ✨ I’m currently making a Linux distro [muOS].
+- 💡 I’m currently making a Linux distro [muOS].
 - 🧪 I’m researching __Programmable System Installation__, __Fastest Automatic System Installation__ (including e.g. dotfiles), __Fastest System Restoration__ and __Continuable System__.
 - 😄 Pronouns: he/him/his
 - ❤️ __I really love programming!__
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### Languages
 
 - __English__ (currently learning)
-- __Japanese/日本語__ (native)
+- __Japanese__/__日本語__ (native)
 - Arduino Language
 - Bash (commonly used shell for me)
 - C
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - JavaScript/ECMAScript (first programming language I learned)
 - Lua (first use from `init.lua` in Neovim)
 - Makefile
-- Python (first use in muOS)
+- Python (first use in [muOS])
 - TOML
 - TypeScript (first statically typed programming language I learned)
 - XML
