@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 #### Languages
 
-- English (currently learning)
-- Japanese/日本語 (native)
+- __English__ (currently learning)
+- __Japanese/日本語__ (native)
 - Bash (commonly used shell for me)
 - C
 - C# (first use in Unity)
