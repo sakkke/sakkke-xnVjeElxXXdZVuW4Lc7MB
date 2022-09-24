@@ -41,6 +41,36 @@ Here are some ideas to get you started:
 - YAML
 - Z Shell
 
+#### Skills
+
+- Alpine Linux
+- Android
+- Arch Linux
+- Arduino
+- CircleCI
+- Codecov
+- Docker
+- Git
+- GitHub
+  - GitHub Actions
+  - GitHub Pages
+- Inkscape
+- Linux
+- Microsoft Excel
+- Netlify
+- PyPI
+- Raspberry Pi
+- Ubuntu
+- Vercel
+- Vim
+- WSL
+- WSL 2
+- Windows
+  - Windows 7
+  - Windows 10
+  - Windows 11
+- npm
+
 ### Metrics
 
 ![Metrics](/github-metrics.svg)
