@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - YAML
 - Z Shell
 
+### Metrics
+
 ![Metrics](/github-metrics.svg)
 
 [muOS]: https://github.com/sakkke/muos
