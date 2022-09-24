@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 😀 I’m Konosuke, `17` years old!
+- ✨ I’m currently making a Linux distro [muOS].
+- 🧪 I’m researching __Programmable System Installation__, __Fastest Automatic System Installation__ (including e.g. dotfiles), __Fastest System Restoration__ and __Continuable System__.
+- 😄 Pronouns: he/him/his
+- ❤️ __I really love programming!__
+
 #### Languages
 
 - English (currently learning)
@@ -36,3 +42,5 @@ Here are some ideas to get you started:
 - Z Shell
 
 ![Metrics](/github-metrics.svg)
+
+[muOS]: https://github.com/sakkke/muos
