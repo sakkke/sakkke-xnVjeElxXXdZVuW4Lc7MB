@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3736" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3763" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    285k added, 81.9k removed
+                                    281k added, 76.2k removed
                                 </div>
                             </section>
                             <section>
@@ -2623,7 +2623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TermuxArch/TermuxArch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/</div>
@@ -3842,22 +3842,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">683d8e70</span>
-                            <span class="code">projects/archiso/configs/releng/airootfs/root/.zlogin</span>
-                            <span class="code"><span class="snippet additions">++6</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">projects/archiso/configs/releng/efiboot/loader/entries/03-archiso-x86_64-ram-linux.conf</span>
+                            <span class="code"><span class="snippet additions">++7</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,6 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># fix for screen readers<br /></span><span class="token prefix inserted">+</span><span class="token line">if grep -Fq 'accessibility=' /proc/cmdline &amp;&gt; /dev/null; then<br /></span><span class="token prefix inserted">+</span><span class="token line">   setopt SINGLE_LINE_ZLE<br /></span><span class="token prefix inserted">+</span><span class="token line">fi<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">~/.automated_script.sh</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">title    Arch Linux install medium (x86_64, UEFI, Copy to RAM)<br /></span><span class="token prefix inserted">+</span><span class="token line">sort-key 03<br /></span><span class="token prefix inserted">+</span><span class="token line">linux    /%INSTALL_DIR%/boot/x86_64/vmlinuz-linux<br /></span><span class="token prefix inserted">+</span><span class="token line">initrd   /%INSTALL_DIR%/boot/intel-ucode.img<br /></span><span class="token prefix inserted">+</span><span class="token line">initrd   /%INSTALL_DIR%/boot/amd-ucode.img<br /></span><span class="token prefix inserted">+</span><span class="token line">initrd   /%INSTALL_DIR%/boot/x86_64/initramfs-linux.img<br /></span><span class="token prefix inserted">+</span><span class="token line">options  archisobasedir=%INSTALL_DIR% archisolabel=%ARCHISO_LABEL% copytoram</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2022, 22:49:03 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Sept 2022, 23:27:26 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
