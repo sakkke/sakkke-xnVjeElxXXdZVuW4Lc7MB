@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 - Linux
 - Microsoft Excel
 - Netlify
+- Pop!_OS
 - PyPI
 - Raspberry Pi
 - Ubuntu
