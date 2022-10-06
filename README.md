@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - Python (first use in [muOS])
 - TOML
 - TypeScript (first statically typed programming language I learned)
+- Vue
 - XML
 - YAML
 - Z Shell
