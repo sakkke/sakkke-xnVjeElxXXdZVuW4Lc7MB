@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1)
 
-#### Languages
+#### Skills
 
 - __English__ (currently learning)
 - __Japanese__/__日本語__ (native)
@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 - XML
 - YAML
 - Z Shell
-
-#### Skills
-
 - Alpine Linux
 - Android
 - Arch Linux
