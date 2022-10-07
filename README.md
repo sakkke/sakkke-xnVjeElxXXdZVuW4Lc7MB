@@ -32,23 +32,25 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=A8B9CC&label=Lang&labelColor=24273A&message=C&logo=c&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=239120&label=Lang&labelColor=24273A&message=C%23&logo=csharp&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=00599C&label=Lang&labelColor=24273A&message=C%2B%2B&logo=cplusplus&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=1572B6&label=Lang&labelColor=24273A&message=CSS3&logo=css3&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Dockerfile&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=E34F26&label=Lang&labelColor=24273A&message=HTML5&logo=html5&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=Lang&labelColor=24273A&message=JSON&logo=json&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=F7DF1E&label=Lang&labelColor=24273A&message=JavaScript&logo=javascript&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=2C2D72&label=Lang&labelColor=24273A&message=Lua&logo=lua&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Makefile&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=3776AB&label=Lang&labelColor=24273A&message=Python&logo=python&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=TOML&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=3178C6&label=Lang&labelColor=24273A&message=TypeScript&logo=typescript&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Vue&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=XML&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=YAML&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Z%20Shell&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=4FC08D&label=Framework&labelColor=24273A&message=Vue.js&logo=vuedotjs&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=2496ED&label=App&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
 
 Currently editing ...
 
-- CSS
-- Dockerfile
-- HTML (first mark-up language I learned)
-- JSON (first structed data format I learned)
-- JavaScript/ECMAScript (first programming language I learned)
-- Lua (first use from `init.lua` in Neovim)
-- Makefile
-- Python (first use in [muOS])
-- TOML
-- TypeScript (first statically typed programming language I learned)
-- Vue
-- XML
-- YAML
-- Z Shell
 - Alpine Linux
 - Android
 - Arch Linux
