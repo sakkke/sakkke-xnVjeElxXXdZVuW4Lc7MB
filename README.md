@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1)
 
-#### Skills
+### Skills
 
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=English&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Japanese&style=for-the-badge)
