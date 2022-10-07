@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=System&labelColor=24273A&message=WSL2&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=0078D6&label=System&labelColor=24273A&message=Windows&logo=windows&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=0078D4&label=System&labelColor=24273A&message=Windows%2011&logo=windows11&logoColor=7DC4E4&style=for-the-badge)
-![](https://img.shields.io/static/v1?color=CB3837&label=Package&labelColor=24273A&message=npm&logo=npm&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=CB3837&label=Pkg&labelColor=24273A&message=npm&logo=npm&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=2496ED&label=App&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
 
 ### Metrics
