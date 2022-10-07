@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ❤️ __I really love programming!__
 
+![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1)
+
 #### Languages
 
 - __English__ (currently learning)
