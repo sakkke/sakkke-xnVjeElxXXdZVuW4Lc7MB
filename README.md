@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 
 #### Skills
 
-- __English__ (currently learning)
-- __Japanese__/__日本語__ (native)
-- Arduino Language
-- Bash (commonly used shell for me)
-- C
-- C# (first use in Unity)
-- C++ (first programming language to give me true object-oriented power)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=English&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Japanese&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=00979D&label=Lang&labelColor=24273A&message=Arduino&logo=arduino&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=4EAA25&label=Lang&labelColor=24273A&message=Bash&logo=gnubash&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=A8B9CC&label=Lang&labelColor=24273A&message=C&logo=c&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=239120&label=Lang&labelColor=24273A&message=C%23&logo=csharp&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=00599C&label=Lang&labelColor=24273A&message=C%2B%2B&logo=cplusplus&logoColor=7DC4E4&style=for-the-badge)
+
+Currently editing ...
+
 - CSS
 - Dockerfile
 - HTML (first mark-up language I learned)
