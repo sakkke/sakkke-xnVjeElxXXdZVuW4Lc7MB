@@ -47,38 +47,30 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=YAML&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Z%20Shell&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=4FC08D&label=Framework&labelColor=24273A&message=Vue.js&logo=vuedotjs&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=0D597F&label=System&labelColor=24273A&message=Alpine%20Linux&logo=alpinelinux&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=3DDC84&label=System&labelColor=24273A&message=Android&logo=android&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=1793D1&label=System&labelColor=24273A&message=Arch%20Linux&logo=archlinux&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=00979D&label=System&labelColor=24273A&message=Arduino&logo=arduino&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=343434&label=Service&labelColor=24273A&message=CircleCI&logo=circleci&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=F01F7A&label=Service&labelColor=24273A&message=Codecov&logo=codecov&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=F05032&label=Tool&labelColor=24273A&message=Git&logo=git&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=181717&label=Service&labelColor=24273A&message=GitHub&logo=github&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=App&labelColor=24273A&message=Inkscape&logo=inkscape&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=FCC624&label=System&labelColor=24273A&message=Linux&logo=linux&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=217346&label=App&labelColor=24273A&message=Microsoft%20Excel&logo=microsoftexcel&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=00C7B7&label=Service&labelColor=24273A&message=Netlify&logo=netlify&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=48B9C7&label=System&labelColor=24273A&message=Pop!_OS&logo=popos&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=3775A9&label=Pkg&labelColor=24273A&message=PyPI&logo=pypi&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=A22846&label=System&labelColor=24273A&message=Raspberry%20Pi&logo=raspberrypi&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=E95420&label=System&labelColor=24273A&message=Ubuntu&logo=ubuntu&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=Service&labelColor=24273A&message=Vercel&logo=vercel&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=019733&label=App&labelColor=24273A&message=Vim&logo=vim&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=System&labelColor=24273A&message=WSL&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=System&labelColor=24273A&message=WSL2&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=0078D6&label=System&labelColor=24273A&message=Windows&logo=windows&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=0078D4&label=System&labelColor=24273A&message=Windows%2011&logo=windows11&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=CB3837&label=Package&labelColor=24273A&message=npm&logo=npm&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=2496ED&label=App&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
-
-Currently editing ...
-
-- Alpine Linux
-- Android
-- Arch Linux
-- Arduino
-- CircleCI
-- Codecov
-- Docker
-- Git
-- GitHub
-  - GitHub Actions
-  - GitHub Pages
-- Inkscape
-- Linux
-- Microsoft Excel
-- Netlify
-- Pop!_OS
-- PyPI
-- Raspberry Pi
-- Ubuntu
-- Vercel
-- Vim
-- WSL
-- WSL 2
-- Windows
-  - Windows 7
-  - Windows 10
-  - Windows 11
-- npm
 
 ### Metrics
 
