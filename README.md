@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=4285F4&label=System&labelColor=24273A&message=chromeOS&logo=googlechrome&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=4169E1&label=Database&labelColor=24273A&message=PostgreSQL&logo=postgresql&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=3ECF8E&label=Platform&labelColor=24273A&message=Supabase&logo=supabase&logoColor=7DC4E4&style=for-the-badge)
-![](https://img.shields.io/static/v1?color=FBB040&label=Browser&labelColor=24273A&message=Google%20Chrome&logo=googlechrome&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=4285F4&label=Browser&labelColor=24273A&message=Google%20Chrome&logo=googlechrome&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FF7139&label=Browser&labelColor=24273A&message=Firefox&logo=firefoxbrowser&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FBB040&label=Pkg&labelColor=24273A&message=Homebrew&logo=homebrew&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=57A143&label=Editor&labelColor=24273A&message=Neovim&logo=neovim&logoColor=7DC4E4&style=for-the-badge)
