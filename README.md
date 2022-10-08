@@ -106,4 +106,17 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
+### Projects
+
+<article>
+  <div>
+    <img alt="sakkke-clock netlify app_" height="128" src="https://user-images.githubusercontent.com/84666033/194689168-dd0d73d1-596e-4a28-83df-a9b21623fc24.png" width="128" />
+    <img alt="sakkke-clock netlify app_ (1)" height="128" src="https://user-images.githubusercontent.com/84666033/194689415-68b38707-ea6b-4dc8-afbe-461b72491ef5.png" width="128" />
+  </div>
+  <p>
+    <a href="https://github.com/sakkke/clock"><code>sakkke/clock</code></a>:
+    <a href="https://sakkke-clock.netlify.app/">Clock made with Vue and CSS</a>
+  </p>
+</article>
+
 [muOS]: https://github.com/sakkke/muos
