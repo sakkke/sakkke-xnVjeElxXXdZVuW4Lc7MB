@@ -96,6 +96,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=646CFF&label=Dev&labelColor=24273A&message=Vite&logo=vite&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=F64935&label=Dev&labelColor=24273A&message=Git%20LFS&logo=gitlfs&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FFFFFF&label=Dev&labelColor=24273A&message=Unity&logo=unity&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=Framework&labelColor=24273A&message=Next.js&logo=nextdotjs&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=00DC82&label=Framework&labelColor=24273A&message=Nuxt.js&logo=nuxtdotjs&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=FF5D01&label=Framework&labelColor=24273A&message=Astro&logo=astro&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=Runtime&labelColor=24273A&message=Deno&logo=deno&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=339933&label=Runtime&labelColor=24273A&message=Node.js&logo=nodedotjs&logoColor=7DC4E4&style=for-the-badge)
 
 ### Metrics
 
