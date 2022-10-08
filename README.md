@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=343434&label=Service&labelColor=24273A&message=CircleCI&logo=circleci&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=F01F7A&label=Service&labelColor=24273A&message=Codecov&logo=codecov&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=F05032&label=Dev&labelColor=24273A&message=Git&logo=git&logoColor=7DC4E4&style=for-the-badge)
-![](https://img.shields.io/static/v1?color=181717&label=Service&labelColor=24273A&message=GitHub&logo=github&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=181717&label=Dev&labelColor=24273A&message=GitHub&logo=github&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=000000&label=App&labelColor=24273A&message=Inkscape&logo=inkscape&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FCC624&label=System&labelColor=24273A&message=Linux&logo=linux&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=217346&label=App&labelColor=24273A&message=Microsoft%20Excel&logo=microsoftexcel&logoColor=7DC4E4&style=for-the-badge)
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=0078D6&label=System&labelColor=24273A&message=Windows&logo=windows&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=0078D4&label=System&labelColor=24273A&message=Windows%2011&logo=windows11&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=CB3837&label=Pkg&labelColor=24273A&message=npm&logo=npm&logoColor=7DC4E4&style=for-the-badge)
-![](https://img.shields.io/static/v1?color=2496ED&label=App&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=2496ED&label=Platform&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=61DAFB&label=Framework&labelColor=24273A&message=React&logo=react&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FF3E00&label=Framework&labelColor=24273A&message=Svelte&logo=svelte&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=06B6D4&label=Framework&labelColor=24273A&message=Tailwind%20CSS&logo=tailwindcss&logoColor=7DC4E4&style=for-the-badge)
@@ -90,6 +90,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=FBB040&label=Pkg&labelColor=24273A&message=Homebrew&logo=homebrew&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=57A143&label=Editor&labelColor=24273A&message=Neovim&logo=neovim&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=007ACC&label=Editor&labelColor=24273A&message=Visual%20Studio%20Code&logo=visualstudiocode&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=183A61&label=Platform&labelColor=24273A&message=VirtualBox&logo=virtualbox&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=5391FE&label=Shell&labelColor=24273A&message=PowerShell&logo=powershell&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=FEFEFE&label=Dev&labelColor=24273A&message=EditorConfig&logo=editorconfig&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=646CFF&label=Dev&labelColor=24273A&message=Vite&logo=vite&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=F64935&label=Dev&labelColor=24273A&message=Git%20LFS&logo=gitlfs&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=FFFFFF&label=Dev&labelColor=24273A&message=Unity&logo=unity&logoColor=7DC4E4&style=for-the-badge)
 
 ### Metrics
 
