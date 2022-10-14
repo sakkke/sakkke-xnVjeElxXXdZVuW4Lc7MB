@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1)
 
+### Connect with me
+
+[![](https://img.shields.io/static/v1?color=181717&label=GitHub&labelColor=24273A&message=sakkke&logo=github&logoColor=7DC4E4&style=for-the-badge)](https://github.com/sakkke)
+[![](https://img.shields.io/static/v1?color=EA4335&label=Gmail&labelColor=24273A&message=w32w64@gmail.com&logo=gmail&logoColor=7DC4E4&style=for-the-badge)](mailto:w32w64@gmail.com)
+[![](https://img.shields.io/static/v1?color=E4405F&label=Instagram&labelColor=24273A&message=sakkke_dev&logo=instagram&logoColor=7DC4E4&style=for-the-badge)](https://www.instagram.com/sakkke_dev/)
+[![](https://img.shields.io/static/v1?color=0A66C2&label=Linkedin&labelColor=24273A&message=Konosuke%20Sakai&logo=linkedin&logoColor=7DC4E4&style=for-the-badge)](https://www.linkedin.com/in/konosuke-sakai-64918b253/)
+[![](https://img.shields.io/static/v1?color=1DA1F2&label=Twitter&labelColor=24273A&message=SakkkeDev&logo=twitter&logoColor=7DC4E4&style=for-the-badge)](https://twitter.com/SakkkeDev)
+[![](https://img.shields.io/static/v1?color=FF0000&label=YouTube&labelColor=24273A&message=sakkke&logo=youtube&logoColor=7DC4E4&style=for-the-badge)](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
+
 ### Skills
 
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=English&style=for-the-badge)
