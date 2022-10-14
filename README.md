@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=339933&label=Runtime&labelColor=24273A&message=Node.js&logo=nodedotjs&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=A81D33&label=System&labelColor=24273A&message=Debian&logo=debian&logoColor=7DC4E4&style=for-the-badge)
 
-### Metrics
+### GitHub Metrics
 
 ![Metrics](/github-metrics.svg)
 
