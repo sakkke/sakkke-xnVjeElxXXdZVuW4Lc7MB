@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+### Hi there 👋
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Spotify Recentry Played" src="https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=2" />
-
 - 😀 I’m Konosuke, `17` years old!
 - 💡 I’m currently making a Linux distro [muOS].
 - 🧪 I’m researching __Programmable System Installation__, __Fastest Automatic System Installation__ (including e.g. dotfiles), __Fastest System Restoration__ and __Continuable System__.
 - 😄 Pronouns: he/him/his
 - ❤️ __I really love programming!__
+
+![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=2)
 
 ### Connect with me
 
