@@ -17,16 +17,23 @@ Here are some ideas to get you started:
 
 - 😀 I’m Konosuke, `17` years old!
 - 💡 I’m currently making a Linux distro [muOS].
-- 🧪 I’m researching __Programmable System Installation__, __Fastest Automatic System Installation__ (including e.g. dotfiles), __Fastest System Restoration__ and __Continuable System__.
+- 🧪 I’m currently researching __sustainable operating system architecture__.
+- 🏆 My 2022 goal: Contributing something to the GitHub repo every day.
+- 🏆 ~~My 2021 goal: Doing `git commit` to the GitHub repo every day.~~
+- 🥅 My biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I made__
+- 🌱 I’m currently learning English, Python and Unity.
+- 💬 Ask and teach me about JavaScript, Linux and Web App!
+- 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
 - 😄 Pronouns: he/him/his
-- ❤️ __I really love programming!__
+- ⚡ Fun fact: I'm good at mornings.
+- ❤️ __I love open source, creative things and person!__
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
 
 ### Connect with me
 
 [![](https://img.shields.io/static/v1?color=000000&label=CodePen&labelColor=24273A&message=sakkke&logo=codepen&logoColor=7DC4E4&style=for-the-badge)](https://codepen.io/sakkke)
-[![](https://img.shields.io/static/v1?color=1877F2&label=Facebook&labelColor=24273A&message=酒井幸乃介&logo=facebook&logoColor=7DC4E4&style=for-the-badge)](https://www.facebook.com/profile.php?id=100080298587283)
+[![](https://img.shields.io/static/v1?color=1877F2&label=Facebook&labelColor=24273A&message=Konosuke%20Sakai&logo=facebook&logoColor=7DC4E4&style=for-the-badge)](https://www.facebook.com/profile.php?id=100080298587283)
 [![](https://img.shields.io/static/v1?color=181717&label=GitHub&labelColor=24273A&message=sakkke&logo=github&logoColor=7DC4E4&style=for-the-badge)](https://github.com/sakkke)
 [![](https://img.shields.io/static/v1?color=EA4335&label=Gmail&labelColor=24273A&message=w32w64@gmail.com&logo=gmail&logoColor=7DC4E4&style=for-the-badge)](mailto:w32w64@gmail.com)
 [![](https://img.shields.io/static/v1?color=E4405F&label=Instagram&labelColor=24273A&message=sakkke_dev&logo=instagram&logoColor=7DC4E4&style=for-the-badge)](https://www.instagram.com/sakkke_dev/)
