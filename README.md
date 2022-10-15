@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🏆 ~~My 2021 goal: Doing `git commit` to the GitHub repo every day.~~
 - 🥅 My biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I made__
 - 🌱 I’m currently learning English, Python and Unity.
-- 💬 Ask and teach me about JavaScript, Linux and Web App!
+- 💬 Ask and tell me about JavaScript, Linux and Web App!
 - 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm good at mornings.
