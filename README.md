@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 😀 I’m Konosuke, `17` years old!
-- 💡 I’m currently making a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🧪 I’m currently researching __sustainable operating system architecture__.
+- 🔭 I’m currently working on creating a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🌱 I’m currently learning English, Python and Unity.
+- 👯 I’m looking to collaborate on interesting projects.
+- 🤔 I’m looking for help with learning new technologies.
 - 💬 Ask me about JavaScript, Linux and Web App!
 - 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
 - 😄 Pronouns: he/him/his
@@ -29,9 +31,9 @@ Here are some ideas to get you started:
 
 ### Goals
 
-- [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
-- [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
-- [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I made__
+- [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I created__
+  - [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
+  - [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
 
 ### Connect with me
 
