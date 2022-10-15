@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😀 I’m Konosuke, Japanese high school of technology student who likes Linux, 17 years old!
+- 😀 I’m Konosuke, Japanese high school of technology student who likes Linux, `17` years old!
 - 🧪 I’m currently researching __sustainable operating system architecture__.
 - 🔭 I’m currently working on creating a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🌱 I’m currently learning English, Python and Unity.
