@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 - 😀 I’m Konosuke, `17` years old!
 - 💡 I’m currently making a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🧪 I’m currently researching __sustainable operating system architecture__.
-- 🏆 2022 goal: Contributing something to the GitHub repo every day.
-- 🏆 ~~2021 goal: Doing `git commit` to the GitHub repo every day.~~
-- 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I made__
 - 🌱 I’m currently learning English, Python and Unity.
 - 💬 Ask me about JavaScript, Linux and Web App!
 - 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
@@ -29,6 +26,12 @@ Here are some ideas to get you started:
 - ❤️ __I love open source, creative things and person!__
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
+
+### Goals
+
+- [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
+- [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
+- [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I made__
 
 ### Connect with me
 
