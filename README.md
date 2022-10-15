@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😀 I’m Konosuke, `17` years old!
-- 💡 I’m currently making a Linux distro [muOS].
+- 💡 I’m currently making a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🧪 I’m currently researching __sustainable operating system architecture__.
 - 🏆 My 2022 goal: Contributing something to the GitHub repo every day.
 - 🏆 ~~My 2021 goal: Doing `git commit` to the GitHub repo every day.~~
@@ -147,5 +147,3 @@ Here are some ideas to get you started:
     <a href="https://sakkke-clock.netlify.app/">Clock made with Vue and CSS</a>
   </p>
 </article>
-
-[muOS]: https://github.com/sakkke/muos
