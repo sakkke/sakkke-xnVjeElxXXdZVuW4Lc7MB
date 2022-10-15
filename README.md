@@ -25,12 +25,18 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
+[![](https://img.shields.io/static/v1?color=000000&label=CodePen&labelColor=24273A&message=sakkke&logo=codepen&logoColor=7DC4E4&style=for-the-badge)](https://codepen.io/sakkke)
+[![](https://img.shields.io/static/v1?color=1877F2&label=Facebook&labelColor=24273A&message=酒井幸乃介&logo=facebook&logoColor=7DC4E4&style=for-the-badge)](https://www.facebook.com/profile.php?id=100080298587283)
 [![](https://img.shields.io/static/v1?color=181717&label=GitHub&labelColor=24273A&message=sakkke&logo=github&logoColor=7DC4E4&style=for-the-badge)](https://github.com/sakkke)
 [![](https://img.shields.io/static/v1?color=EA4335&label=Gmail&labelColor=24273A&message=w32w64@gmail.com&logo=gmail&logoColor=7DC4E4&style=for-the-badge)](mailto:w32w64@gmail.com)
 [![](https://img.shields.io/static/v1?color=E4405F&label=Instagram&labelColor=24273A&message=sakkke_dev&logo=instagram&logoColor=7DC4E4&style=for-the-badge)](https://www.instagram.com/sakkke_dev/)
 [![](https://img.shields.io/static/v1?color=0A66C2&label=Linkedin&labelColor=24273A&message=Konosuke%20Sakai&logo=linkedin&logoColor=7DC4E4&style=for-the-badge)](https://www.linkedin.com/in/konosuke-sakai-64918b253/)
+[![](https://img.shields.io/static/v1?color=1DB954&label=Spotify&labelColor=24273A&message=sakkke&logo=spotify&logoColor=7DC4E4&style=for-the-badge)](https://open.spotify.com/user/lgembq0v6w8uuug3ynkh6et1f)
+[![](https://img.shields.io/static/v1?color=F58025&label=Stack%20Overflow&labelColor=24273A&message=sakkke&logo=stackoverflow&logoColor=7DC4E4&style=for-the-badge)](https://stackoverflow.com/users/18221444/sakkke)
 [![](https://img.shields.io/static/v1?color=1DA1F2&label=Twitter&labelColor=24273A&message=SakkkeDev&logo=twitter&logoColor=7DC4E4&style=for-the-badge)](https://twitter.com/SakkkeDev)
+[![](https://img.shields.io/static/v1?color=1E5397&label=Unix%20%26%20Linux&labelColor=24273A&message=sakkke&logo=stackexchange&logoColor=7DC4E4&style=for-the-badge)](https://unix.stackexchange.com/users/514537/sakkke)
 [![](https://img.shields.io/static/v1?color=FF0000&label=YouTube&labelColor=24273A&message=sakkke&logo=youtube&logoColor=7DC4E4&style=for-the-badge)](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
+[![](https://img.shields.io/static/v1?color=3EA8FF&label=Zenn&labelColor=24273A&message=sakkke&logo=zenn&logoColor=7DC4E4&style=for-the-badge)](https://zenn.dev/sakkke)
 
 ### Skills
 
@@ -111,10 +117,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=000000&label=Runtime&labelColor=24273A&message=Deno&logo=deno&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=339933&label=Runtime&labelColor=24273A&message=Node.js&logo=nodedotjs&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=A81D33&label=System&labelColor=24273A&message=Debian&logo=debian&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=FFAE33&label=Platform&labelColor=24273A&message=Gitpod&logo=gitpod&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=175DDC&label=App&labelColor=24273A&message=Bitwarden&logo=bitwarden&logoColor=7DC4E4&style=for-the-badge)
 
-### GitHub Metrics
+### Metrics
 
 ![Metrics](/github-metrics.svg)
+
+<a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
+/></a>
 
 ### Projects
 
