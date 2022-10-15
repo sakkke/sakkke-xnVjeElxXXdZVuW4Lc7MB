@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning English, Python and Unity.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m looking for help with learning new technologies.
-- 💬 Ask me about JavaScript, Linux and World Wide Web!
+- 💬 Ask me about JavaScript, Linux and Web development!
 - 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm good at mornings.
