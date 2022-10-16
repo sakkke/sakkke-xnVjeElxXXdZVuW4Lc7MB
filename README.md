@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🦔 Hi there 👋
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 😀 I’m Konosuke, high school of technology student who likes Linux, `17` years old!
+- 🚀 I’m currently interesting in several new programming languages: [Roc](https://www.roc-lang.org/), [V](https://vlang.io/) and [Zig](https://ziglang.org/).
 - 🧪 I’m currently researching __sustainable operating system architecture__.
-- 🔭 I’m currently working on creating a Linux distro [muOS](https://github.com/sakkke/muos).
+- 🔭 I’m currently working on a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🌱 I’m currently learning English, Python and Unity.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m looking for help with learning new technologies.
-- 💬 Ask me about JavaScript, Linux and Web development!
+- 💬 Ask me about [technologies I know](#-technologies)!
 - 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm good at mornings.
@@ -29,13 +30,13 @@ Here are some ideas to get you started:
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
 
-### Goals
+### 🌟 Goals
 
 - [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I created__
   - [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
   - [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
 
-### Connect with me
+### 🧭 Connect with me
 
 [![](https://img.shields.io/static/v1?color=000000&label=CodePen&labelColor=24273A&message=sakkke&logo=codepen&logoColor=7DC4E4&style=for-the-badge)](https://codepen.io/sakkke)
 [![](https://img.shields.io/static/v1?color=1877F2&label=Facebook&labelColor=24273A&message=Konosuke%20Sakai&logo=facebook&logoColor=7DC4E4&style=for-the-badge)](https://www.facebook.com/profile.php?id=100080298587283)
@@ -50,12 +51,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/static/v1?color=FF0000&label=YouTube&labelColor=24273A&message=sakkke&logo=youtube&logoColor=7DC4E4&style=for-the-badge)](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
 [![](https://img.shields.io/static/v1?color=3EA8FF&label=Zenn&labelColor=24273A&message=sakkke&logo=zenn&logoColor=7DC4E4&style=for-the-badge)](https://zenn.dev/sakkke)
 
-### Skills
+### 💾 Technologies
 
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=English&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=Japanese&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=00979D&label=Lang&labelColor=24273A&message=Arduino&logo=arduino&logoColor=7DC4E4&style=for-the-badge)
-![](https://img.shields.io/static/v1?color=4EAA25&label=Lang&labelColor=24273A&message=GNU%20Bash&logo=gnubash&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=4EAA25&label=Lang&labelColor=24273A&message=Bash&logo=gnubash&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=A8B9CC&label=Lang&labelColor=24273A&message=C&logo=c&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=239120&label=Lang&labelColor=24273A&message=C%23&logo=csharp&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=00599C&label=Lang&labelColor=24273A&message=C%2B%2B&logo=cplusplus&logoColor=7DC4E4&style=for-the-badge)
@@ -132,7 +133,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=FFAE33&label=Platform&labelColor=24273A&message=Gitpod&logo=gitpod&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=175DDC&label=App&labelColor=24273A&message=Bitwarden&logo=bitwarden&logoColor=7DC4E4&style=for-the-badge)
 
-### Metrics
+### 📊 Metrics
 
 ![Metrics](/github-metrics.svg)
 
@@ -140,7 +141,7 @@ Here are some ideas to get you started:
   src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
 /></a>
 
-### Projects
+### 🎁 Projects
 
 <article>
   <div>
