@@ -132,6 +132,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=A81D33&label=System&labelColor=24273A&message=Debian&logo=debian&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=FFAE33&label=Platform&labelColor=24273A&message=Gitpod&logo=gitpod&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=175DDC&label=App&labelColor=24273A&message=Bitwarden&logo=bitwarden&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=AsciiDoc&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=008080&label=Lang&labelColor=24273A&message=LaTeX&logo=latex&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=000000&label=Lang&labelColor=24273A&message=Markdown&logo=markdown&logoColor=7DC4E4&style=for-the-badge)
+![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=reStructuredText&style=for-the-badge)
 
 ### 📊 Metrics
 
