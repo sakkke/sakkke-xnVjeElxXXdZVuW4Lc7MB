@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😀 I’m Konosuke, high school of technology student who likes Linux, `17` years old!
-- 🚀 I’m currently interesting in several new programming languages: [Roc](https://www.roc-lang.org/), [V](https://vlang.io/) and [Zig](https://ziglang.org/).
+- 🚀 I’m currently interesting in several new programming languages: [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v) and [Zig](https://github.com/ziglang/zig).
 - 🧪 I’m currently researching __sustainable operating system architecture__.
 - 🔭 I’m currently working on a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🌱 I’m currently learning English, Python and Unity.
