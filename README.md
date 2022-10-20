@@ -137,14 +137,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?color=000000&label=Lang&labelColor=24273A&message=Markdown&logo=markdown&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=7DC4E4&label=Lang&labelColor=24273A&message=reStructuredText&style=for-the-badge)
 
-### 📊 Metrics
-
-![Metrics](/github-metrics.svg)
-
-<a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
-/></a>
-
 ### 🎁 Projects
 
 #### 📌 Pinned
@@ -159,3 +151,11 @@ Here are some ideas to get you started:
 #### 📝 Templates
 
 [![sakkke/catppuccin-vite-vue-open-props-template](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=catppuccin-vite-vue-open-props-template&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/catppuccin-vite-vue-open-props-template)
+
+### 📊 Metrics
+
+![Metrics](/github-metrics.svg)
+
+<a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
+/></a>
