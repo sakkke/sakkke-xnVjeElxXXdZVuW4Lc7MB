@@ -147,13 +147,15 @@ Here are some ideas to get you started:
 
 ### 🎁 Projects
 
-<article>
-  <div>
-    <img alt="sakkke-clock netlify app_" height="128" src="https://user-images.githubusercontent.com/84666033/194689168-dd0d73d1-596e-4a28-83df-a9b21623fc24.png" width="128" />
-    <img alt="sakkke-clock netlify app_ (1)" height="128" src="https://user-images.githubusercontent.com/84666033/194689415-68b38707-ea6b-4dc8-afbe-461b72491ef5.png" width="128" />
-  </div>
-  <p>
-    <a href="https://github.com/sakkke/clock"><code>sakkke/clock</code></a>:
-    <a href="https://sakkke-clock.netlify.app/">Clock made with Vue and CSS</a>
-  </p>
-</article>
+#### 📌 Pinned
+
+[![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
+[![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
+[![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
+[![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
+[![sakkke/run-game](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game)
+[![sakkke/run-game-server](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game-server&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game-server)
+
+#### 📝 Templates
+
+[![sakkke/catppuccin-vite-vue-open-props-template](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=catppuccin-vite-vue-open-props-template&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/catppuccin-vite-vue-open-props-template)
