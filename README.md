@@ -157,7 +157,3 @@ Here are some ideas to get you started:
 ### 📊 Metrics
 
 ![Metrics](/github-metrics.svg)
-
-<a href="https://stackoverflow.com/users/18221444/sakkke"><img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=514537&theme=stackoverflowlight"
-/></a>
