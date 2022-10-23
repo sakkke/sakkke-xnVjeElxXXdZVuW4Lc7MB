@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😀 I’m Konosuke, high school of technology student who likes Linux, `17` years old!
+- 😀 I’m Konosuke, high school of technology student who likes Linux and Catppuccin, `17` years old!
 - 🚀 I’m currently interesting in several new programming languages: [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v) and [Zig](https://github.com/ziglang/zig).
 - 🧪 I’m currently researching [___Sustainable Operating System Architecture___](https://github.com/sakkke/muos#goals) while creating a Linux distro [muOS](https://github.com/sakkke/muos). It consists of four: ___Programmable System Installation___, ___Fastest Automatic System Installation___ (including e.g. dotfiles), ___Fastest System Restoration___ and ___Continuable System___.
 - 🔭 I’m currently working on a Linux distro [muOS](https://github.com/sakkke/muos).
@@ -31,6 +31,17 @@ Here are some ideas to get you started:
 - ❤️ __I love open source, creative things and person!__
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
+
+### 🧠 My philosophies
+
+- __Be simple.__
+- __The future me makes the present me.__
+
+### 💡 My favorite quotes
+
+> Done is better than perfect.
+>
+> — Mark Zuckerberg
 
 ### 🌟 Goals
 
