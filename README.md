@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   - [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
   - [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
 
+### 🔗 Links
+
+[![](https://img.shields.io/static/v1?color=7DC4E4&label=Link&labelColor=24273A&message=Ideal%20Schedule.xlsx&style=for-the-badge)](https://1drv.ms/x/s!AkeVTSBwGLpoiG9Gk6PkaEd9Ppbm?e=E36WaW)
+
 ### 🧭 Connect with me
 
 [![](https://img.shields.io/static/v1?color=000000&label=CodePen&labelColor=24273A&message=sakkke&logo=codepen&logoColor=7DC4E4&style=for-the-badge)](https://codepen.io/sakkke)
