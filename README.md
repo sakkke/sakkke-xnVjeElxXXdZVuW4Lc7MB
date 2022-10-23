@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 💾 Technologies
 
-<details open><summary>Languages</summary>
+<details open><summary>🗣️ Languages</summary>
 
 My native language is Japanese.
 
@@ -68,7 +68,7 @@ My native language is Japanese.
 
 </details>
 
-<details open><summary>Programming languages</summary>
+<details open><summary>⚡ Programming languages</summary>
 
 I especially like JavaScript.
 Because it is the first programming language I learned.
@@ -101,7 +101,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Frameworks</summary>
+<details open><summary>🔥 Frameworks</summary>
 
 ![](https://img.shields.io/static/v1?color=4FC08D&label=Framework&labelColor=24273A&message=Vue.js&logo=vuedotjs&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=61DAFB&label=Framework&labelColor=24273A&message=React&logo=react&logoColor=7DC4E4&style=for-the-badge)
@@ -113,7 +113,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Systems</summary>
+<details open><summary>🤖 Systems</summary>
 
 [_I use arch btw_](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
 
@@ -135,7 +135,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Services</summary>
+<details open><summary>🐕‍🦺 Services</summary>
 
 ![](https://img.shields.io/static/v1?color=343434&label=Service&labelColor=24273A&message=CircleCI&logo=circleci&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=F01F7A&label=Service&labelColor=24273A&message=Codecov&logo=codecov&logoColor=7DC4E4&style=for-the-badge)
@@ -144,7 +144,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Development skills</summary>
+<details open><summary>🔧 Development skills</summary>
 
 ![](https://img.shields.io/static/v1?color=F05032&label=Dev&labelColor=24273A&message=Git&logo=git&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=181717&label=Dev&labelColor=24273A&message=GitHub&logo=github&logoColor=7DC4E4&style=for-the-badge)
@@ -155,7 +155,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Apps</summary>
+<details open><summary>✨ Apps</summary>
 
 ![](https://img.shields.io/static/v1?color=000000&label=App&labelColor=24273A&message=Inkscape&logo=inkscape&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=217346&label=App&labelColor=24273A&message=Microsoft%20Excel&logo=microsoftexcel&logoColor=7DC4E4&style=for-the-badge)
@@ -168,7 +168,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Packaging skills</summary>
+<details open><summary>📦 Packaging skills</summary>
 
 ![](https://img.shields.io/static/v1?color=3775A9&label=Pkg&labelColor=24273A&message=PyPI&logo=pypi&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=CB3837&label=Pkg&labelColor=24273A&message=npm&logo=npm&logoColor=7DC4E4&style=for-the-badge)
@@ -176,7 +176,7 @@ Because it is the first programming language I learned.
 
 </details>
 
-<details open><summary>Editors</summary>
+<details open><summary>✏️ Editors</summary>
 
 I mainly use Neovim.
 I like Vim key bindings!
@@ -187,7 +187,7 @@ I like Vim key bindings!
 
 </details>
 
-<details open><summary>Platforms</summary>
+<details open><summary>🚉 Platforms</summary>
 
 ![](https://img.shields.io/static/v1?color=2496ED&label=Platform&labelColor=24273A&message=Docker&logo=docker&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=3ECF8E&label=Platform&labelColor=24273A&message=Supabase&logo=supabase&logoColor=7DC4E4&style=for-the-badge)
@@ -196,13 +196,13 @@ I like Vim key bindings!
 
 </details>
 
-<details open><summary>Databases</summary>
+<details open><summary>📡 Databases</summary>
 
 ![](https://img.shields.io/static/v1?color=4169E1&label=Database&labelColor=24273A&message=PostgreSQL&logo=postgresql&logoColor=7DC4E4&style=for-the-badge)
 
 </details>
 
-<details open><summary>Web browsers</summary>
+<details open><summary>🌐 Web browsers</summary>
 
 I mainly use Firefox.
 
@@ -211,7 +211,7 @@ I mainly use Firefox.
 
 </details>
 
-<details open><summary>Shells</summary>
+<details open><summary>🐚 Shells</summary>
 
 I mainly use Bash.
 
@@ -219,7 +219,7 @@ I mainly use Bash.
 
 </details>
 
-<details open><summary>Runtimes</summary>
+<details open><summary>👟 Runtimes</summary>
 
 ![](https://img.shields.io/static/v1?color=000000&label=Runtime&labelColor=24273A&message=Deno&logo=deno&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=339933&label=Runtime&labelColor=24273A&message=Node.js&logo=nodedotjs&logoColor=7DC4E4&style=for-the-badge)
@@ -232,14 +232,29 @@ I mainly use Bash.
 
 ### 🎁 Projects
 
-<details open><summary>📌 Pinned</summary>
+<details open><summary>🎨 Draws</summary>
 
-[![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
 [![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
-[![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
-[![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
+
+</details>
+
+<details open><summary>👾 Games</summary>
+
 [![sakkke/run-game](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game)
 [![sakkke/run-game-server](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game-server&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game-server)
+
+</details>
+
+<details open><summary>🐧 Linux</summary>
+
+[![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
+[![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
+
+</details>
+
+<details open><summary>🌐 Made with the web</summary>
+
+[![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
 
 </details>
 
