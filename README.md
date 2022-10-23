@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 😀 I’m Konosuke, high school of technology student who likes Linux, `17` years old!
 - 🚀 I’m currently interesting in several new programming languages: [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v) and [Zig](https://github.com/ziglang/zig).
-- 🧪 I’m currently researching __sustainable operating system architecture__.
+- 🧪 I’m currently researching [___Sustainable Operating System Architecture___](https://github.com/sakkke/muos#goals) while creating a Linux distro [muOS](https://github.com/sakkke/muos). It consists of four: ___Programmable System Installation___, ___Fastest Automatic System Installation___ (including e.g. dotfiles), ___Fastest System Restoration___ and ___Continuable System___.
 - 🔭 I’m currently working on a Linux distro [muOS](https://github.com/sakkke/muos).
 - 🌱 I’m currently learning English, Python and Unity.
 - 👯 I’m looking to collaborate on interesting projects.
@@ -52,21 +52,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/static/v1?color=1E5397&label=Unix%20%26%20Linux&labelColor=24273A&message=sakkke&logo=stackexchange&logoColor=7DC4E4&style=for-the-badge)](https://unix.stackexchange.com/users/514537/sakkke)
 [![](https://img.shields.io/static/v1?color=FF0000&label=YouTube&labelColor=24273A&message=sakkke&logo=youtube&logoColor=7DC4E4&style=for-the-badge)](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
 [![](https://img.shields.io/static/v1?color=3EA8FF&label=Zenn&labelColor=24273A&message=sakkke&logo=zenn&logoColor=7DC4E4&style=for-the-badge)](https://zenn.dev/sakkke)
-
-### 🎁 Projects
-
-#### 📌 Pinned
-
-[![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
-[![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
-[![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
-[![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
-[![sakkke/run-game](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game)
-[![sakkke/run-game-server](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game-server&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game-server)
-
-#### 📝 Templates
-
-[![sakkke/catppuccin-vite-vue-open-props-template](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=catppuccin-vite-vue-open-props-template&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/catppuccin-vite-vue-open-props-template)
 
 ### 💾 Technologies
 
@@ -157,3 +142,18 @@ Here are some ideas to get you started:
 ### 📊 Metrics
 
 ![Metrics](/github-metrics.svg)
+
+### 🎁 Projects
+
+#### 📌 Pinned
+
+[![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
+[![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
+[![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
+[![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
+[![sakkke/run-game](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game)
+[![sakkke/run-game-server](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=run-game-server&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/run-game-server)
+
+#### 📝 Templates
+
+[![sakkke/catppuccin-vite-vue-open-props-template](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=catppuccin-vite-vue-open-props-template&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/catppuccin-vite-vue-open-props-template)
