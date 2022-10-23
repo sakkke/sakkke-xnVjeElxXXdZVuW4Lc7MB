@@ -232,9 +232,22 @@ I mainly use Bash.
 
 ### 🎁 Projects
 
-<details open><summary>🎨 Draws</summary>
+<details open><summary>🎨 Arts</summary>
 
 [![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
+
+</details>
+
+<details open><summary>😸 <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a> ports</summary>
+
+[![catppuccin/tabby](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=tabby&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/catppuccin/tabby)
+[![catppuccin/zutty](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=zutty&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/catppuccin/zutty)
+
+</details>
+
+<details open><summary>📝 Documents</summary>
+
+[![sakkke/setup-wizard-pop-os](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=setup-wizard-pop-os&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/setup-wizard-pop-os)
 
 </details>
 
@@ -247,6 +260,7 @@ I mainly use Bash.
 
 <details open><summary>🐧 Linux</summary>
 
+[![sakkke/afw](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=afw&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/afw)
 [![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
 [![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
 
@@ -255,10 +269,13 @@ I mainly use Bash.
 <details open><summary>🌐 Made with the web</summary>
 
 [![sakkke/clock](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=clock&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/clock)
+[![sakkke/muldict](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muldict&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muldict)
+[![sakkke/multidict](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=multidict&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/multidict)
+[![sakkke/sakkke-site](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=sakkke-site&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/sakkke-site)
 
 </details>
 
-<details open><summary>📝 Templates</summary>
+<details open><summary>📋 Templates</summary>
 
 [![sakkke/catppuccin-vite-vue-open-props-template](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=catppuccin-vite-vue-open-props-template&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/catppuccin-vite-vue-open-props-template)
 
