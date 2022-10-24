@@ -39,7 +39,15 @@ Here are some ideas to get you started:
 
 ### 💡 My favorite quotes
 
-> Done is better than perfect.
+> Colorful is better than colorless
+>
+> — [Catppuccin](https://github.com/catppuccin/catppuccin#-design-philosophy)
+
+> Explicit is better than implicit
+>
+> — [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
+
+> Done is better than perfect
 >
 > — Mark Zuckerberg
 
