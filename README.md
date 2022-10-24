@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 
 ### 🧠 My philosophies
 
-- __Be simple.__
-- __The future me makes the present me.__
+- __Be simple__
+- __The future me makes the present me__
+- __The break is better than to keep working__
+- __Sleep gives fresh ideas__
+- __Avoid multitasking as much as possible__
 
 ### 💡 My favorite quotes
 
