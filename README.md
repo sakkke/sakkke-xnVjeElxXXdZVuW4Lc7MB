@@ -283,8 +283,15 @@ I mainly use Bash.
 <details open><summary>🐧 Linux</summary>
 
 [![sakkke/afw](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=afw&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/afw)
+[![sakkke/alpine-red](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=alpine-red&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/alpine-red)
+[![sakkke/elemlinux](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=elemlinux&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/elemlinux)
+[![sakkke/icy-scripts](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=icy-scripts&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/icy-scripts)
 [![sakkke/muos](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=muos&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/muos)
+[![sakkke/popwand-linux](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=popwand-linux&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/popwand-linux)
 [![sakkke/quilt](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=quilt&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/quilt)
+[![sakkke/shoot](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=shoot&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/shoot)
+[![sakkke/suily](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=suily&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/suily)
+[![sakkke/termy](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=termy&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/termy)
 
 </details>
 
