@@ -237,6 +237,7 @@ I mainly use Firefox.
 
 I mainly use Bash.
 
+![](https://img.shields.io/static/v1?color=4EAA25&label=Shell&labelColor=24273A&message=GNU%20Bash&logo=gnubash&logoColor=7DC4E4&style=for-the-badge)
 ![](https://img.shields.io/static/v1?color=5391FE&label=Shell&labelColor=24273A&message=PowerShell&logo=powershell&logoColor=7DC4E4&style=for-the-badge)
 
 </details>
