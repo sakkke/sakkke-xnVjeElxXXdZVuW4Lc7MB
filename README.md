@@ -42,17 +42,25 @@ Here are some ideas to get you started:
 
 ### 💡 My favorite quotes
 
-> Colorful is better than colorless
+> "Colorful is better than colorless"
 >
 > — [Catppuccin](https://github.com/catppuccin/catppuccin#-design-philosophy)
 
-> Explicit is better than implicit
+> "Explicit is better than implicit"
 >
-> — [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
+> — [Python](https://peps.python.org/pep-0020/#the-zen-of-python)
 
-> Done is better than perfect
+> "Done is better than perfect"
 >
 > — Mark Zuckerberg
+
+> "Fast is better than slow"
+>
+> — [Google](https://about.google/intl/en_us/philosophy/)
+
+> "Write programs that do one thing and do it well"
+>
+> — Doug McIlroy
 
 ### 🌟 Goals
 
