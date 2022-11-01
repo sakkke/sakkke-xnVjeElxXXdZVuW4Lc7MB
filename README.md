@@ -259,7 +259,7 @@ I mainly use Bash.
 
 ### 📊 Metrics
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/sakkke/sakkke/main/github-metrics.svg)
 
 ### 🎁 Projects
 
