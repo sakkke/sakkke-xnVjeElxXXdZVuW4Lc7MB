@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**TOC**:
+<details open><summary>Table of contents</summary>
 
 - [Self introduction](#self-introduction)
   - [Philosophies](#philosophies)
   - [Online accounts](#online-accounts)
   - [Technologies](#technologies)
+
+</details>
 
 ***
 
@@ -50,6 +52,8 @@ Web browser | Firefox
 
 ## Philosophies
 
+<details open>
+
 - Simple
 - *Colorful is better than colorless.*
 - *Explicit is better than implicit.*
@@ -60,7 +64,11 @@ Web browser | Firefox
 - *Done is better than perfect.*
 - *I use arch btw.*
 
+</details>
+
 ## Online accounts
+
+<details>
 
 - [CodePen](https://codepen.io/sakkke)
 - [Facebook](https://www.facebook.com/profile.php?id=100080298587283)
@@ -74,7 +82,11 @@ Web browser | Firefox
 - [YouTube](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
 - [Zenn](https://zenn.dev/sakkke)
 
+</details>
+
 ## Technologies
+
+<details>
 
 Note that if you are in a web browser, let’s try a key binding `Ctrl` `F` to search!
 
@@ -163,3 +175,5 @@ Note that if you are in a web browser, let’s try a key binding `Ctrl` `F` to s
 - fish shell
 - Deno
 - Node.js
+
+</details>
