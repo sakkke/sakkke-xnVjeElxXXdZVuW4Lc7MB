@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/sakkke)
-
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,60 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😀 I’m Konosuke, high school of technology student who likes Linux and Catppuccin, `17` years old!
-- 🚀 I’m currently interesting in several new programming languages: [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v) and [Zig](https://github.com/ziglang/zig).
-- 🧪 I’m currently researching [___Sustainable Operating System Architecture___](https://github.com/sakkke/muos#goals) while creating a Linux distro [muOS](https://github.com/sakkke/muos). It consists of four: ___Programmable System Installation___, ___Fastest Automatic System Installation___ (including e.g. dotfiles), ___Fastest System Restoration___ and ___Continuable System___.
-- 🔭 I’m currently working on a Linux distro [muOS](https://github.com/sakkke/muos).
-- 🌱 I’m currently learning English, Python and Unity.
-- 👯 I’m looking to collaborate on interesting projects.
-- 🤔 I’m looking for help with learning new technologies.
-- 💬 Ask me about [technologies I know](#-technologies)!
-- 📫 How to reach me: [w32w64+sakkke@gmail.com](mailto:w32w64+sakkke@gmail.com)
+### Self introduction
+
+I’m Konosuke!
+I’m crazy about [V](https://github.com/vlang/v).
+I’m currently researching a better operating system.
+Its concept are ***Simple***, ***Maintainable*** and ***Customizable***.
+
+- 🔭 I’m currently working on a new Arch Linux distro [Better](https://github.com/sakkke/better).
+- 🌱 I’m currently learning V and Unity.
+- 👯 I’m looking to collaborate on fun projects!
+- 🤔 I’m looking for help with learning software architecture patterns.
+- 💬 Ask me about programming!
+- 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm good at mornings.
-- ❤️ __I love open source, creative things and person!__
+- ⚡ Fun fact: **I’m not good at planning.**
 
-![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
+### My world
 
-### My philosophies
+- Simple
+- *Colorful is better than colorless.*
+- *Explicit is better than implicit.*
+- *Flat is better than nested.*
+- *Now is better than never.*
+- *It’s best to do one thing really, really well.*
+- *Fast is better than slow.*
+- *Done is better than perfect.*
 
-- __Be simple__
-- __The future me makes the present me__
-- __The break is better than to keep working__
-- __Sleep gives fresh ideas__
-- __Avoid multitasking as much as possible__
+### Daily goal
 
-### My favorite quotes
+Contribute every day
 
-> "Colorful is better than colorless"
->
-> — [Catppuccin](https://github.com/catppuccin/catppuccin#-design-philosophy)
+### Biggest goal
 
-> "Explicit is better than implicit"
->
-> — [Python](https://peps.python.org/pep-0020/#the-zen-of-python)
-
-> "Done is better than perfect"
->
-> — Mark Zuckerberg
-
-> "Fast is better than slow"
->
-> — [Google](https://about.google/intl/en_us/philosophy/)
-
-> "Write programs that do one thing and do it well"
->
-> — Doug McIlroy
-
-### Goals
-
-- [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I created__
-  - [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
-  - [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
-
-### Links
-
-[![](https://img.shields.io/static/v1?color=7DC4E4&label=Link&labelColor=24273A&message=Ideal%20Schedule.xlsx&style=for-the-badge)](https://1drv.ms/x/s!AkeVTSBwGLpoiG9Gk6PkaEd9Ppbm?e=E36WaW)
+Control virtual machines which are installed self-made an operating system, in the virtual world
 
 ### Connect with me
 
