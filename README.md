@@ -63,6 +63,7 @@ Web browser | Firefox
 - The break is better than to keep working.
 - Sleep gives fresh ideas.
 - Avoid multitasking as much as possible.
+- Be mindful of time.
 - [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy)
 - [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python)
 - [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python)

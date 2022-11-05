@@ -63,6 +63,7 @@ Webブラウザ | Firefox
 - 休憩は作業し続けるよりも優れている。
 - 睡眠は新鮮なアイデアをもたらす。
 - マルチタスクをなるべく避ける。
+- 時間を大切にすること。
 - [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れている。)
 - [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れている。)
 - [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れている。)
