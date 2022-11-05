@@ -59,6 +59,10 @@ Webブラウザ | Firefox
 <details open>
 
 - シンプル
+- 未来の自分は現在の私を作ります。
+- 休憩は作業し続けるよりも優れています。
+- 睡眠は新鮮なアイデアをもたらします。
+- マルチタスクをなるべく避ける。
 - [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れています。)
 - [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れています。)
 - [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れています。)
