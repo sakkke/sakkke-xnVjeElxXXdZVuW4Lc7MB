@@ -91,90 +91,90 @@ Web browser | Firefox
 
 Note that if you are in a web browser, let’s try a key binding `Ctrl` `F` to search!
 
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Alpine Linux
+- Android
+- Arch Linux
 - Arduino
+- AsciiDoc
+- Astro
 - Bash
+- Bitwarden
 - C
 - C#
 - C++
 - CSS
+- Chrome OS
+- CircleCI
+- Codecov
+- Debian
+- Deno
 - Docker
+- EditorConfig
+- Firefox
+- Git
+- Git LFS
+- GitHub
+- GitHub Actions
+- GitHub Packages
+- GitHub Pages
+- Gitpod
+- Google Chrome
 - HTML
+- Homebrew
+- Inkscape
 - JSON
 - JavaScript
+- LaTeX
+- Linux
 - Lua
 - Make
-- Python
-- TOML
-- TypeScript
-- Vue
-- XML
-- YAML
-- Zsh
-- Svelte
-- Vim
-- AsciiDoc
-- LaTeX
 - Markdown
-- reStructuredText
-- V
-- React
-- Tailwind CSS
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft Word
+- Neovim
+- Netlify
 - Next.js
+- Node.js
+- Nushell
 - Nuxt
-- Astro
-- Alpine Linux
-- Android
-- Arch Linux
-- Linux
 - Pop!_OS
+- PostgreSQL
+- PowerShell
+- PyPI
+- Python
 - Raspberry Pi
+- React
+- Supabase
+- Svelte
+- TOML
+- Tailwind CSS
+- TypeScript
 - Ubuntu
+- Unity
+- V
+- VPM
+- VSCodium
+- Vercel
+- Vim
+- VirtualBox
+- Visual Studio Code
+- Vite
+- Vue
 - WSL
 - WSL 2
 - Windows
 - Windows 10
 - Windows 11
-- macOS
-- Chrome OS
-- Debian
-- CircleCI
-- Codecov
-- Netlify
-- Vercel
-- GitHub Actions
-- GitHub Pages
-- Git
-- GitHub
-- EditorConfig
-- Vite
-- Git LFS
-- Unity
-- Inkscape
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Premiere Pro
-- Bitwarden
-- PyPI
-- npm
-- Homebrew
-- VPM
-- GitHub Packages
-- Neovim
-- Visual Studio Code
-- VSCodium
-- Supabase
-- VirtualBox
-- Gitpod
-- PostgreSQL
-- Firefox
-- Google Chrome
-- PowerShell
-- Nushell
+- XML
+- YAML
+- Zsh
 - fish shell
-- Deno
-- Node.js
+- macOS
+- npm
+- reStructuredText
 
 </details>
