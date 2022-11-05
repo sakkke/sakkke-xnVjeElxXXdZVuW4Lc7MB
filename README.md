@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[English](https://github.com/sakkke/sakkke/blob/main/README.md) | [Japanese](https://github.com/sakkke/sakkke/blob/main/README.ja.md)
+
 <details open><summary>Table of contents</summary>
 
 - [Self introduction](#self-introduction)

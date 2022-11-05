@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[英語](https://github.com/sakkke/sakkke/blob/main/README.md) | [日本語](https://github.com/sakkke/sakkke/blob/main/README.md)
+
 <details open><summary>もくじ</summary>
 
 - [自己紹介](#self-introduction)
