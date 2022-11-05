@@ -1,7 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/sakkke)
 
-### 🦔 Hi there 👋
-
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
 
-### 🧠 My philosophies
+### My philosophies
 
 - __Be simple__
 - __The future me makes the present me__
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 - __Sleep gives fresh ideas__
 - __Avoid multitasking as much as possible__
 
-### 💡 My favorite quotes
+### My favorite quotes
 
 > "Colorful is better than colorless"
 >
@@ -62,17 +60,17 @@ Here are some ideas to get you started:
 >
 > — Doug McIlroy
 
-### 🌟 Goals
+### Goals
 
 - [ ] 🥅 Current biggest goal: __Programming while listening to my favorite music on a virtual computer in the Metaverse with a Linux distro I created__
   - [ ] 🏆 2022 goal: Contributing something to the GitHub repo every day.
   - [x] 🏆 2021 goal: Doing `git commit` to the GitHub repo every day.
 
-### 🔗 Links
+### Links
 
 [![](https://img.shields.io/static/v1?color=7DC4E4&label=Link&labelColor=24273A&message=Ideal%20Schedule.xlsx&style=for-the-badge)](https://1drv.ms/x/s!AkeVTSBwGLpoiG9Gk6PkaEd9Ppbm?e=E36WaW)
 
-### 🧭 Connect with me
+### Connect with me
 
 [![](https://img.shields.io/static/v1?color=000000&label=CodePen&labelColor=24273A&message=sakkke&logo=codepen&logoColor=7DC4E4&style=for-the-badge)](https://codepen.io/sakkke)
 [![](https://img.shields.io/static/v1?color=1877F2&label=Facebook&labelColor=24273A&message=Konosuke%20Sakai&logo=facebook&logoColor=7DC4E4&style=for-the-badge)](https://www.facebook.com/profile.php?id=100080298587283)
@@ -87,7 +85,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/static/v1?color=FF0000&label=YouTube&labelColor=24273A&message=sakkke&logo=youtube&logoColor=7DC4E4&style=for-the-badge)](https://www.youtube.com/channel/UCoaGuNQt8M_6cPyI75K8GJw)
 [![](https://img.shields.io/static/v1?color=3EA8FF&label=Zenn&labelColor=24273A&message=sakkke&logo=zenn&logoColor=7DC4E4&style=for-the-badge)](https://zenn.dev/sakkke)
 
-### 💾 Technologies
+### Technologies
 
 <details open><summary>🗣️ Languages</summary>
 
@@ -257,6 +255,6 @@ I mainly use Bash.
 
 </details>
 
-### 📊 Metrics
+### Metrics
 
 ![Metrics](https://raw.githubusercontent.com/sakkke/sakkke/main/github-metrics.svg)
