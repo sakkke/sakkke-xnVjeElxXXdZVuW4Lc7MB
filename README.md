@@ -59,14 +59,14 @@ Web browser | Firefox
 <details open>
 
 - Simple
-- *Colorful is better than colorless.*
-- *Explicit is better than implicit.*
-- *Flat is better than nested.*
-- *Now is better than never.*
-- *It’s best to do one thing really, really well.*
-- *Fast is better than slow.*
-- *Done is better than perfect.*
-- *I use arch btw.*
+- [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy)
+- [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+- [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+- [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+- [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/)
+- [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/)
+- [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8)
+- [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
 
 </details>
 

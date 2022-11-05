@@ -59,14 +59,14 @@ Webブラウザ | Firefox
 <details open>
 
 - シンプル
-- *Colorful is better than colorless.* (カラフルは無色よりも優れています。)
-- *Explicit is better than implicit.* (明示的は暗黙的よりも優れています。)
-- *Flat is better than nested.* (平らな場所は深い溝よりも優れています。)
-- *Now is better than never.* (今は決してないよりも優れています。)
-- *It’s best to do one thing really, really well.* (ひとつのことを本当に、本当にうまくやるのが一番です。)
-- *Fast is better than slow.* (速いことは遅いことよりも優れています。)
-- *Done is better than perfect.* (完了は完璧よりも優れています。)
-- *I use arch btw.*
+- [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れています。)
+- [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れています。)
+- [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れています。)
+- [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python) (今は決してないよりも優れています。)
+- [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/) (ひとつのことを本当に、本当にうまくやるのが一番です。)
+- [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/) (速いことは遅いことよりも優れています。)
+- [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8) (完了は完璧よりも優れています。)
+- [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
 
 </details>
 
