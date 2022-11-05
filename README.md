@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**TOC**:
+
+- [Self introduction](#self-introduction)
+  - [Philosophies](#philosophies)
+  - [Online accounts](#online-accounts)
+  - [Technologies](#technologies)
+
+***
+
 # Self introduction
 
 I’m Konosuke!
@@ -32,12 +41,14 @@ Its concept are ***Simple***, ***Maintainable*** and ***Customizable***.
 Key | Value
 -|-
 Native language | Japanese
+Daily goals | Contribute every day
+Current major goal | Control virtual machines which are installed self-made an operating system, in the virtual world
 Favorite projects | [Linux](https://github.com/torvalds/linux), [Catppuccin](https://github.com/catppuccin/catppuccin), [fzf](https://github.com/junegunn/fzf)
 First programming language | JavaScript
 Code editor | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 Web browser | Firefox
 
-## My world
+## Philosophies
 
 - Simple
 - *Colorful is better than colorless.*
@@ -48,14 +59,6 @@ Web browser | Firefox
 - *Fast is better than slow.*
 - *Done is better than perfect.*
 - *I use arch btw.*
-
-## Daily goal
-
-Contribute every day
-
-## Biggest goal
-
-Control virtual machines which are installed self-made an operating system, in the virtual world
 
 ## Online accounts
 
