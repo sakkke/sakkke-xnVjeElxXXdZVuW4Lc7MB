@@ -122,11 +122,14 @@ Web ブラウザ | Firefox
 
 <details>
 
+- [Buy Me a Coffee](https://www.buymeacoffee.com/sakkke)
 - [CodePen](https://codepen.io/sakkke)
 - [Facebook](https://www.facebook.com/profile.php?id=100080298587283)
 - [GitHub](https://github.com/sakkke)
+- [Imgur](https://imgur.com/user/sakkke)
 - [Instagram](https://www.instagram.com/sakkke_dev/)
 - [Linkedin](https://www.linkedin.com/in/konosuke-sakai-64918b253/)
+- [Pinterest](https://www.pinterest.jp/sakkke_dev/)
 - [Spotify](https://open.spotify.com/user/lgembq0v6w8uuug3ynkh6et1f)
 - [Stack Overflow](https://stackoverflow.com/users/18221444/sakkke)
 - [Twitter](https://twitter.com/SakkkeDev)
