@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 # Self introduction
 
 幸乃介です。
-[V](https://github.com/vlang/v)に夢中です。
+[V](https://github.com/vlang/v) に夢中です。
 現在、ベターなオペレーティングシステムを研究しています。
 そのコンセプトは、***シンプル***かつ***保守可能***で、***カスタマイズ可能***であることです。
 
-- 🔭 現在、新しいArch Linuxディストロ[Better](https://github.com/sakkke/better)をつくっています。
-- 🌱 現在、VとUnityを学んでいます。
+- 🔭 現在、新しい Arch Linux ディストロ[Better](https://github.com/sakkke/better)をつくっています。
+- 🌱 現在、V と Unity を学んでいます。
 - 👯 楽しいプロジェクトでコラボレーションしたいです！
 - 🤔 ソフトウェアアーキテクチャパターンについて僕に教えてください。
 - 💬 プログラミングについて僕に聞いてみよう！
@@ -140,7 +140,7 @@ Webブラウザ | Firefox
 
 <details>
 
-Note: Webブラウザを使用している場合は、キーバインディング`Ctrl` `F`を使用して検索しましょう！
+Note: Web ブラウザを使用している場合は、キーバインディング `Ctrl` `F` を使用して検索しましょう！
 
 - Adobe Illustrator
 - Adobe Photoshop
