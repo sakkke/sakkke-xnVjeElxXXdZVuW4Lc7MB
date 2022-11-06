@@ -42,7 +42,7 @@ Its concepts are ***Simple***, ***Maintainable*** and ***Customizable***.
 - 💬 Ask me about programming!
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: **I’m not good at planning.**
+- ⚡ Fun fact: **I create something with programming every day.**
 
 Key | Value
 -|-
