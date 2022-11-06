@@ -143,8 +143,6 @@ Web browser | Firefox
 
 <details>
 
-Note that if you are in a web browser, let’s try a key binding `Ctrl` `F` to search!
-
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe Premiere Pro
