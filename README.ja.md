@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 母国語 | 日本語
 ポートフォリオ | [https://sakkke.netlify.app/](https://sakkke.netlify.app/)
 毎日の目標 | コントリビュートする
-現在の主な目標 | 仮想世界で、自作オペレーティングシステムがインストールされた仮想マシンを操作する
+現在の大きな目標 | 仮想世界で、自作オペレーティングシステムがインストールされた仮想マシンを操作する
 お気に入りのプロジェクト | [Linux](https://github.com/torvalds/linux), [Catppuccin](https://github.com/catppuccin/catppuccin), [fzf](https://github.com/junegunn/fzf)
 興味がある新しいプログラミング言語 | [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v), [Zig](https://github.com/ziglang/zig)
 初めてのプログラミング言語 | JavaScript

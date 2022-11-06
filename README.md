@@ -49,7 +49,7 @@ Key | Value
 Native language | Japanese
 Portfolio | [https://sakkke.netlify.app/](https://sakkke.netlify.app/)
 Daily goals | Contribute
-Current major goal | Control virtual machines which are installed self-made an operating system, in the virtual world
+Current big goal | Control virtual machines which are installed self-made an operating system, in the virtual world
 Favorite projects | [Linux](https://github.com/torvalds/linux), [Catppuccin](https://github.com/catppuccin/catppuccin), [fzf](https://github.com/junegunn/fzf)
 New programming languages of interest | [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v), [Zig](https://github.com/ziglang/zig)
 First programming language | JavaScript
