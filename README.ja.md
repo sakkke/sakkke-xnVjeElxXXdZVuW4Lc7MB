@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 <details open><summary>もくじ</summary>
 
-- [自己紹介](#self-introduction)
-  - [哲学](#philosophies)
-  - [オンラインアカウント](#online-accounts)
-  - [技術](#technologies)
+- [Self introduction](#self-introduction)
+  - [Action guidelines](#action-guidelines)
+  - [Online accounts](#online-accounts)
+  - [Technologies](#technologies)
 
 </details>
 
 ***
 
-# 自己紹介
+![Profile views](https://gpvc.arturio.dev/sakkke)
+
+# Self introduction
 
 幸乃介です。
 [V](https://github.com/vlang/v)に夢中です。
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 - 💬 プログラミングについて僕に聞いてみよう！
 - 📫 連絡手段: [Email](mailto:w32w64@gmail.com)
 - 😄 代名詞 (Pronouns): 彼/彼に/彼の (he/him/his)
-- ⚡ 楽しい事実 (Fun fact): **計画を立てるのが苦手です。**
+- ⚡ Fun fact: **計画を立てるのが苦手です。**
 
 キー | 値
 -|-
@@ -54,11 +56,51 @@ Here are some ideas to get you started:
 コードエディタ | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 Webブラウザ | Firefox
 
-## 哲学
+![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
+
+<table>
+<thead>
+<tr>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+</tr>
+</thead>
+</table>
+
+[![Konosuke's github activity graph](https://activity-graph.herokuapp.com/graph?username=sakkke&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Action guidelines
 
 <details open>
 
 - シンプル
+- 透明
+- ポータブル
+- すぐに使える
 - 未来の自分は現在の私を作る。
 - 休憩は作業し続けるよりも優れている。
 - 睡眠は新鮮なアイデアをもたらす。
@@ -66,6 +108,7 @@ Webブラウザ | Firefox
 - 時間を大切にすること。
 - [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れている。)
 - [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れている。)
+- [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python) (シンプルなものは複雑なものよりも優れている。)
 - [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れている。)
 - [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python) (今は決してないよりも優れている。)
 - [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/) (ひとつのことを本当に、本当にうまくやるのが一番である。)
@@ -75,7 +118,7 @@ Webブラウザ | Firefox
 
 </details>
 
-## オンラインアカウント
+## Online accounts
 
 <details>
 
@@ -93,7 +136,7 @@ Webブラウザ | Firefox
 
 </details>
 
-## 技術
+## Technologies
 
 <details>
 

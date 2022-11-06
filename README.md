@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <details open><summary>Table of contents</summary>
 
 - [Self introduction](#self-introduction)
-  - [Philosophies](#philosophies)
+  - [Action guidelines](#action-guidelines)
   - [Online accounts](#online-accounts)
   - [Technologies](#technologies)
 
@@ -26,14 +26,16 @@ Here are some ideas to get you started:
 
 ***
 
+![Profile views](https://gpvc.arturio.dev/sakkke)
+
 # Self introduction
 
 I’m Konosuke!
 I’m crazy about [V](https://github.com/vlang/v).
 I’m currently researching a better operating system.
-Its concept are ***Simple***, ***Maintainable*** and ***Customizable***.
+Its concepts are ***Simple***, ***Maintainable*** and ***Customizable***.
 
-- 🔭 I’m currently working on a new Arch Linux distro [Better](https://github.com/sakkke/better).
+- 🔭 I’m currently working on an new Arch Linux distro [Better](https://github.com/sakkke/better).
 - 🌱 I’m currently learning V and Unity.
 - 👯 I’m looking to collaborate on fun projects!
 - 🤔 I’m looking for help with learning software architecture patterns.
@@ -54,11 +56,51 @@ First programming language | JavaScript
 Code editor | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 Web browser | Firefox
 
-## Philosophies
+![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
+
+<table>
+<thead>
+<tr>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+</tr>
+</thead>
+</table>
+
+[![Konosuke's github activity graph](https://activity-graph.herokuapp.com/graph?username=sakkke&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Action guidelines
 
 <details open>
 
 - Simple
+- Transparent
+- Portable
+- Out of the box
 - The future me makes the present me.
 - The break is better than to keep working.
 - Sleep gives fresh ideas.
@@ -66,6 +108,7 @@ Web browser | Firefox
 - Be mindful of time.
 - [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy)
 - [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+- [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python)
 - [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python)
 - [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python)
 - [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/)
