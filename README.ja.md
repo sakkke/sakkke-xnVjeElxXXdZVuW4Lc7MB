@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 🌱 現在、V と Unity を学んでいます。
 - 👯 楽しいプロジェクトでコラボレーションしたいです！
 - 🤔 ソフトウェアアーキテクチャパターンについて僕に教えてください。
-- 💬 プログラミングについて僕に聞いてください！
+- 💬 プログラミングや[僕が知っている技術](#technologies)について僕に聞いてください！
 - 📫 連絡手段: [Email](mailto:w32w64@gmail.com)
 - 😄 代名詞 (Pronouns): 彼/彼に/彼の (he/him/his)
 - ⚡ Fun fact: **私は毎日、プログラミングでなにかをつくっています。**
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 興味がある新しいプログラミング言語 | [Roc](https://github.com/roc-lang/roc), [V](https://github.com/vlang/v), [Zig](https://github.com/ziglang/zig)
 初めてのプログラミング言語 | JavaScript
 コードエディタ | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
-Webブラウザ | Firefox
+Web ブラウザ | Firefox
 
 ![Spotify Recentry Played](https://spotify-recently-played-readme.vercel.app/api?user=lgembq0v6w8uuug3ynkh6et1f&unique=1&count=3)
 

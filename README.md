@@ -39,7 +39,7 @@ Its concepts are ***Simple***, ***Maintainable*** and ***Customizable***.
 - 🌱 I’m currently learning V and Unity.
 - 👯 I’m looking to collaborate on fun projects!
 - 🤔 I’m looking for help with learning software architecture patterns.
-- 💬 Ask me about programming!
+- 💬 Ask me about programming or [technologies I know](#technologies)!
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: **I create something with programming every day.**
