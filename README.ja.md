@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 現在、ベターなオペレーティングシステムを研究しています。
 そのコンセプトは、***シンプル***かつ***保守可能***で、***カスタマイズ可能***であることです。
 
-- 🔭 現在、新しい Arch Linux ディストロ[Better](https://github.com/sakkke/better)をつくっています。
+- 🔭 現在、新しい Arch Linux ディストロ [Better](https://github.com/sakkke/better) をつくっています。
 - 🌱 現在、V と Unity を学んでいます。
 - 👯 楽しいプロジェクトでコラボレーションしたいです！
 - 🤔 ソフトウェアアーキテクチャパターンについて僕に教えてください。
