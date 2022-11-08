@@ -97,24 +97,24 @@ Web ブラウザ | Firefox
 
 <details open>
 
-- シンプル
-- 透明
-- ポータブル
-- すぐに使える
-- 未来の自分は現在の私を作る。
-- 休憩は作業し続けるよりも優れている。
-- 睡眠は新鮮なアイデアをもたらす。
-- マルチタスクをなるべく避ける。
-- 時間を大切にすること。
-- [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れている。)
-- [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れている。)
-- [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python) (シンプルなものは複雑なものよりも優れている。)
-- [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れている。)
-- [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python) (今は決してないよりも優れている。)
-- [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/) (ひとつのことを本当に、本当にうまくやるのが一番である。)
-- [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/) (速いことは遅いことよりも優れている。)
-- [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8) (完了は完璧よりも優れている。)
-- [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
+1. シンプル
+1. 透明
+1. ポータブル
+1. すぐに使える
+1. 未来の自分は現在の私を作る。
+1. 休憩は作業し続けるよりも優れている。
+1. 睡眠は新鮮なアイデアをもたらす。
+1. マルチタスクをなるべく避ける。
+1. 時間を大切にすること。
+1. [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy) (カラフルは無色よりも優れている。)
+1. [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python) (明示的は暗黙的よりも優れている。)
+1. [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python) (シンプルなものは複雑なものよりも優れている。)
+1. [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python) (平らな場所は深い溝よりも優れている。)
+1. [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python) (今は決してないよりも優れている。)
+1. [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/) (ひとつのことを本当に、本当にうまくやるのが一番である。)
+1. [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/) (速いことは遅いことよりも優れている。)
+1. [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8) (完了は完璧よりも優れている。)
+1. [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
 
 </details>
 

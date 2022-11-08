@@ -97,24 +97,24 @@ Web browser | Firefox
 
 <details open>
 
-- Simple
-- Transparent
-- Portable
-- Out of the box
-- The future me makes the present me.
-- The break is better than to keep working.
-- Sleep gives fresh ideas.
-- Avoid multitasking as much as possible.
-- Be mindful of time.
-- [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy)
-- [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python)
-- [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python)
-- [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python)
-- [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python)
-- [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/)
-- [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/)
-- [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8)
-- [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
+1. Simple
+1. Transparent
+1. Portable
+1. Out of the box
+1. The future me makes the present me.
+1. The break is better than to keep working.
+1. Sleep gives fresh ideas.
+1. Avoid multitasking as much as possible.
+1. Be mindful of time.
+1. [*Colorful is better than colorless.*](https://github.com/catppuccin/catppuccin#-design-philosophy)
+1. [*Explicit is better than implicit.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+1. [*Simple is better than complex.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+1. [*Flat is better than nested.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+1. [*Now is better than never.*](https://peps.python.org/pep-0020/#the-zen-of-python)
+1. [*It’s best to do one thing really, really well.*](https://about.google/intl/en_us/philosophy/)
+1. [*Fast is better than slow.*](https://about.google/intl/en_us/philosophy/)
+1. [*Done is better than perfect.*](https://medium.com/publishous/5-reasons-why-done-is-better-than-perfect-4c9afa2063b8)
+1. [*I use arch btw.*](https://www.reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)
 
 </details>
 
