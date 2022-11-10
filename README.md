@@ -30,9 +30,11 @@ Key | Value
 🔨 Development method | [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
 🔨 Display manager | [SDDM](https://github.com/sddm/sddm)
 📝 Docs | [Markdown](https://daringfireball.net/projects/markdown/)
+🧑‍💻 Dotfiles | [sakkke/dotfiles](https://github.com/sakkke/dotfiles)
 🔨 Editor | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 💄 Font | [Fira Code](https://github.com/tonsky/FiraCode)
 💄 Indentation | 4 character size tabs
+🔨 Language | English
 📝 License | [MIT](https://mit-license.org/)
 🔨 Operating system | [Arch Linux](https://archlinux.org/)
 🔨 Programming language | [V](https://github.com/vlang/v)
