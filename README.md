@@ -26,12 +26,14 @@ Key | Value
 -|-
 👷 CI/CD | [Docker](https://www.docker.com/)
 📝 Changelog | [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+🔨 Chat app | Discord
 📝 Commit messages | [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 🔨 Development method | [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
 🔨 Display manager | [SDDM](https://github.com/sddm/sddm)
 📝 Docs | [Markdown](https://daringfireball.net/projects/markdown/)
 🧑‍💻 Dotfiles | [sakkke/dotfiles](https://github.com/sakkke/dotfiles)
 🔨 Editor | [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+🔨 Email | [w32w64@gmail.com](mailto:w32w64@gmail.com)
 💄 Font | [Fira Code](https://github.com/tonsky/FiraCode)
 💄 Indentation | 4 character size tabs
 🔨 Language | English
@@ -39,6 +41,7 @@ Key | Value
 🔨 Operating system | [Arch Linux](https://archlinux.org/)
 🔨 Programming language | [V](https://github.com/vlang/v)
 🔨 Shell | [GNU Bash](https://www.gnu.org/software/bash/)
+🚀 Streaming | Twitch
 🔨 Task runner | [GNU Make](https://www.gnu.org/software/make/)
 🔨 Terminal app | [foot](https://codeberg.org/dnkl/foot)
 💄 Theme | [Catppuccin](https://github.com/catppuccin/catppuccin)
