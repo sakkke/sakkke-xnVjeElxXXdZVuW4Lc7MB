@@ -14,6 +14,42 @@ Here are some ideas to get you started:
 -->
 
 # Self introduction
+![Profile views](https://gpvc.arturio.dev/sakkke)
+
+<table>
+<thead>
+<tr>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+<th>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" />
+</picture>
+</th>
+</tr>
+</thead>
+</table>
+
+[![Konosuke's github activity graph](https://activity-graph.herokuapp.com/graph?username=sakkke&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Hello!
 I'm Konosuke.
