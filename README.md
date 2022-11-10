@@ -38,6 +38,7 @@ Key | Value
 💄 Indentation | 4 character size tabs
 🔨 Language | English
 📝 License | [MIT](https://mit-license.org/)
+🧑‍💻 Music player | Spotify
 🔨 Operating system | [Arch Linux](https://archlinux.org/)
 🔨 Programming language | [V](https://github.com/vlang/v)
 🔨 Shell | [GNU Bash](https://www.gnu.org/software/bash/)
