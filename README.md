@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Self introduction
+# Hello there!
 
 <details>
 <summary>日本語</summary>
