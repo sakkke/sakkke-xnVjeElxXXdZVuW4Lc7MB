@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Hello!
 I'm Konosuke!
-I like [Catppuccin](https://github.com/catppuccin/catppuccin) (a theme), [V](https://github.com/vlang/v) (a programming language), [fzf](https://github.com/junegunn/fzf) (a command), and languages.
+I like [Catppuccin](https://github.com/catppuccin/catppuccin) (a theme), [V](https://github.com/vlang/v) (a programming language), and [fzf](https://github.com/junegunn/fzf) (a command).
 My dream is bringing computers to everyone, so I'm currently creating an Arch Linux distro [Flight OS](https://github.com/sakkke/flightos).
