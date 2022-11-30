@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there!
-
+# Hello There!
 I'm Konosuke, just a random student like creating a Linux distro.
 I like [Catppuccin](https://github.com/catppuccin/catppuccin), a very cool community-driven pastel theme!
 
