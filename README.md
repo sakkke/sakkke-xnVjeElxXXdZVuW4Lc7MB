@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello There!
-I'm Konosuke, just a random student like creating a Linux distro (an operating system).
+I'm Konosuke, just a random student developer who likes creating a Linux distro (an operating system).
 I like [Catppuccin](https://github.com/catppuccin/catppuccin), a very cool community-driven pastel theme, and Open Source Software!
 
 - 🔭 I’m currently working on creating a Linux distro [Flight OS](https://github.com/sakkke/flightos).
