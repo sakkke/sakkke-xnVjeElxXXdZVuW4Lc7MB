@@ -21,6 +21,8 @@ I like [Catppuccin](https://github.com/catppuccin/catppuccin), a very cool commu
 - 🌱 I’m currently learning [V](https://github.com/vlang/v) (a programming language).
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 
+And check out [my portfolio](https://classic-modern.netlify.app/)!
+
 [![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Flight OS](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=flightos&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/flightos)
