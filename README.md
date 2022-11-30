@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 # Hello There!
 I'm Konosuke, just a random student like creating a Linux distro.
-I like [Catppuccin](https://github.com/catppuccin/catppuccin), a very cool community-driven pastel theme!
+I like [Catppuccin](https://github.com/catppuccin/catppuccin), a very cool community-driven pastel theme, and Open Source Software!
 
-- 🔭 I’m currently working on creating a Linux distro.
+- 🔭 I’m currently working on creating a Linux distro [Flight OS](https://github.com/sakkke/flightos).
 - 🌱 I’m currently learning [V](https://github.com/vlang/v) (a programming language).
+- 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 
 [![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,3 +32,5 @@ flightos -d gh:sakkke/dotfiles -s gh:sakkke/flightos-alpha -u sakkke # WIP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&hide_border=true&langs_count=10&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Konosuke's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakkke&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.buymeacoffee.com/sakkke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
