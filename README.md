@@ -25,16 +25,12 @@ And check out [my portfolio](https://classic-modern.netlify.app/)!
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&border_radius=40&hide=stars&hide_border=true&hide_title=true&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Flight OS](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=flightos&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/flightos)
+[![Flight OS](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=flightos&border_radius=40&hide_border=true&show_owner=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/flightos)
 
 ```shell
 flightos -d gh:sakkke/dotfiles -s gh:sakkke/flightos-alpha -u sakkke # WIP
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&hide_border=true&langs_count=10&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Konosuke's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakkke&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.buymeacoffee.com/sakkke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
