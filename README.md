@@ -54,3 +54,6 @@ flightos -d gh:sakkke/dotfiles -s gh:sakkke/flightos-alpha -u sakkke
 
 ### Artwork
 [![sakkke/inkscape-work](https://github-readme-stats.vercel.app/api/pin/?username=sakkke&repo=inkscape-work&border_radius=40&hide_border=true&show_owner=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/sakkke/inkscape-work)
+
+#### Buy Me A Macchiato
+<a href="https://www.buymeacoffee.com/sakkke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
