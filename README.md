@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 # Hello There!
+![Profile views](https://gpvc.arturio.dev/sakkke)
+
 I'm Konosuke, just a random student developer who loves creating a Linux distro (an operating system).
 I love [Catppuccin](https://github.com/catppuccin/catppuccin) (especially, my favorite Catppuccin's flavor is *macchiato*), a very cool community-driven pastel theme, and Open Source Software!
 
