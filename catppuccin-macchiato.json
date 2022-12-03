@@ -7,14 +7,11 @@
     "weakColor": "#b7bdf8",
     "radarColor": "#f5a97f",
     "growingAnimation": true,
-    "saturation": "50%",
-    "contribLightness": [
-        "20%",
-        "30%",
-        "35%",
-        "40%",
-        "50%"
-    ],
-    "duration": "10s",
-    "hueRatio": -7
+    "contribColors": [
+        "#8aadf4",
+        "#a6da95",
+        "#eed49f",
+        "#47a042",
+        "#ed8796"
+    ]
 }
