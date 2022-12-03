@@ -1,17 +1,17 @@
 {
-    "type": "rainbow",
-    "fileName": "profile-custom-catppuccin-macchiato.svg",
-    "backgroundColor": "#24273a",
-    "foregroundColor": "#cad3f5",
-    "strongColor": "#f5a97f",
-    "weakColor": "#b7bdf8",
-    "radarColor": "#f5a97f",
-    "growingAnimation": true,
-    "contribColors": [
-        "#8aadf4",
-        "#a6da95",
-        "#eed49f",
-        "#47a042",
-        "#ed8796"
-    ]
+  "type": "rainbow",
+  "fileName": "profile-custom-catppuccin-macchiato.svg",
+  "backgroundColor": "#24273a",
+  "foregroundColor": "#cad3f5",
+  "strongColor": "#f5a97f",
+  "weakColor": "#b7bdf8",
+  "radarColor": "#f5a97f",
+  "growingAnimation": true,
+  "contribColors": [
+    "#8aadf4",
+    "#a6da95",
+    "#eed49f",
+    "#47a042",
+    "#ed8796"
+  ]
 }
