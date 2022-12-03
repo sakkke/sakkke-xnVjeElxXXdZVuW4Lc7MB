@@ -1,11 +1,11 @@
 {
     "type": "rainbow",
-    "fileName": "profile-custom-rainbow.svg",
-    "backgroundColor": "#00000f",
-    "foregroundColor": "#eeeeff",
-    "strongColor": "rgb(255,200,55)",
-    "weakColor": "#aaaaaa",
-    "radarColor": "rgb(255,200,55)",
+    "fileName": "profile-custom-catppuccin-macchiato.svg",
+    "backgroundColor": "#24273a",
+    "foregroundColor": "#cad3f5",
+    "strongColor": "#f5a97f",
+    "weakColor": "#b7bdf8",
+    "radarColor": "#f5a97f",
     "growingAnimation": true,
     "saturation": "50%",
     "contribLightness": [
