@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-custom-catppuccin-macchiato.svg)
 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=1&theme=catppuccin_macchiato&align=left&line1=typescript,typescript,3178C6;)](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=1&theme=catppuccin_macchiato&align=left&line1=typescript,typescript,3178C6;)
+
 # Hello There!
 ![Profile views](https://gpvc.arturio.dev/sakkke)
 
