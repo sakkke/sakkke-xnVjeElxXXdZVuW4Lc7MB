@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/sakkke)
 
 I'm Konosuke, just a random student developer who loves creating a Linux distro.
-I love [Catppuccin](https://github.com/catppuccin/catppuccin) (especially, my favorite Catppuccin's flavor is *macchiato*), a very cool community-driven pastel theme, and Open Source Software!
+I love [Catppuccin](https://github.com/catppuccin/catppuccin) (especially, my favorite Catppuccin's flavor is *macchiato*), a very cool community-driven pastel theme, and OSS!
 
 - 🔭 I’m currently working on creating a Linux distro ~~[Flight OS](https://github.com/sakkke/flightos)~~ [planeta](https://github.com/sakkke/planeta).
 - 🌱 I’m currently learning [V](https://github.com/vlang/v) (a programming language).
