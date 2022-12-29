@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm Konosuke, just a random student developer who loves creating a Linux distro.
 I love [Catppuccin](https://github.com/catppuccin/catppuccin) (especially, my favorite Catppuccin's flavor is *macchiato*), a very cool community-driven pastel theme, and OSS!
 
-- 🔭 I’m currently working on creating a Linux distro [planeta](https://github.com/sakkke/planeta).
+- 🔭 I’m currently working on creating an Arch Linux distro [planeta](https://github.com/sakkke/planeta).
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 
 And check out [my portfolio](https://classic-modern.netlify.app/)!
