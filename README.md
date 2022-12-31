@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hello!
 
