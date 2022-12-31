@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&line1=linux,linux,auto;windows,windows,5ed3f3;unity,unity,5ed3f3;html5,html,auto;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&line1=linux,linux,auto;windows,windows,5ed3f3;unity,unity,5ed3f3;html5,html,auto;)
+
 [![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hello!
