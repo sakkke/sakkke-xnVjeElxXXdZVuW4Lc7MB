@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
-# Hello There!
-![Profile views](https://gpvc.arturio.dev/sakkke)
+# Hello!
 
-I'm Konosuke, just a random student developer who loves creating a Linux distro.
-I love [Catppuccin](https://github.com/catppuccin/catppuccin) (especially, my favorite Catppuccin's flavor is *macchiato*), a very cool community-driven pastel theme, and OSS!
+I'm Konosuke, student developer who loves OSS.
+I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
+I can work in web-based projects, *will-be-compiled-to-native-language* projects, Linux distro, and Unity projects.
+I'm a core developer of [planeta](https://github.com/sakkke/planeta), a LXDE-based Arch Linux distro.
 
-- 🔭 I’m currently working on creating an Arch Linux distro [planeta](https://github.com/sakkke/planeta).
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 
 And check out [my portfolio](https://classic-modern.netlify.app/)!
