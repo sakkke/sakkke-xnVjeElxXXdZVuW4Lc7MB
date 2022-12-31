@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Konosuke, student developer who loves OSS.
 I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
-I can work in web-based projects, *will-be-compiled-to-native-language* projects, Linux distros, and Unity projects.
+I can work in web-based projects, *will-be-compiled-to-native* projects, Linux distros, and Unity projects.
 I'm a core developer of [planeta](https://github.com/sakkke/planeta), a LXDE-based Arch Linux distro.
 
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
