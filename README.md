@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 # Hello!
 
-I'm Konosuke, a student developer who loves OSS.
+I'm Konosuke, a student developer who loves OSS!
 I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
 I can work in web-based projects, projects using compiled/interpreted language, Linux distros, and Unity projects.
-I'm an author of [planeta](https://github.com/sakkke/planeta), a LXDE-based Arch Linux distro.
+I'm an author of [planeta](https://github.com/sakkke/planeta), a LXDE-based Arch Linux distro!
 
 - 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
 
