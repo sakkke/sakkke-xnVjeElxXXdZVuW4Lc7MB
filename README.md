@@ -24,6 +24,6 @@ I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some po
 I can work in web-based projects, projects using compiled/interpreted language, Linux distros, and Unity projects.
 I'm an author of [planeta](https://github.com/sakkke/planeta), a LXDE-based Arch Linux distro!
 
-- 📫 How to reach me: [Email](mailto:w32w64@gmail.com)
+- 📫 How to reach me: [email](mailto:w32w64@gmail.com)
 
 And check out [my portfolio](https://classic-modern.netlify.app/)!
