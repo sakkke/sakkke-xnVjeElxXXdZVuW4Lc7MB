@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm Konosuke, a student developer who loves OSS!
 I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
 I can work in web-based projects, projects using compiled/interpreted language, Linux projects, and Unity projects.
-I'm an author of [Drop](https://github.com/sakkke/drop), a Debian distro focusing **fast installation**!
+I'm creating [Drop](https://github.com/sakkke/drop), a Debian distro focusing **fast installation**!
 
 - 📫 How to reach me: [email](mailto:w32w64@gmail.com)
 
