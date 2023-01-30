@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 I'm Konosuke, a student developer who loves OSS!
 I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
-I can work in web-based projects, Linux projects, and Unity projects.
 I'm creating a Debian based Linux distro. Coming soon!
 
 - 📫 How to reach me: [email](mailto:w32w64@gmail.com)
