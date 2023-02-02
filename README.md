@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 I'm Konosuke, a student developer who loves OSS!
 I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
-I'm creating a Debian based Linux distro. Coming soon!
+I'm currently creating [xi](https://github.com/sakkke/xi), a Debian-based Linux distro inspired by Windows 11.
+
+![](https://raw.githubusercontent.com/sakkke/xi/main/assets/Screenshot_20230202_062320.png)
 
 - 📫 How to reach me: [email](mailto:w32w64@gmail.com)
 
