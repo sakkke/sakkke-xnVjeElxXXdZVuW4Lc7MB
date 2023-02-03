@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&line1=linux,linux,auto;windows,windows,5ed3f3;unity,unity,5ed3f3;html5,html,auto;&bg=%23000000)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&line1=linux,linux,auto;windows,windows,5ed3f3;unity,unity,5ed3f3;html5,html,auto;&bg=%23000000)
+## :smile: Hi!
 
-[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
-
-# Hello there!
-
-I'm Konosuke, a student developer who loves OSS!
-I'm a member of [Catppuccin](https://github.com/catppuccin), maintaining some ports.
+I'm Konosuke, a student developer.
+I love open source software!
+I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
 I'm currently creating [xi](https://github.com/sakkke/xi), a Debian-based Linux distro inspired by Windows 11.
 
 ![](https://raw.githubusercontent.com/sakkke/xi/main/assets/Screenshot_20230202_062320.png)
 
-- 📫 How to reach me: [email](mailto:w32w64@gmail.com)
+Above is a screenshot of the development in progress.
+I plan to add some minimum required features!
 
-And check out [my portfolio](https://classic-modern.netlify.app/)!
+- 🌱 I’m currently learning [V programming language](https://github.com/vlang/v)
+- 📫 How to reach me: w32w64@gmail.com
+- 😄 Pronouns: he/him
