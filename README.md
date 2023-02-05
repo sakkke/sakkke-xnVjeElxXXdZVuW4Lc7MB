@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :smile: Hi!
+## :smile: Hi There!
+
+[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Konosuke, a student developer.
 I love open source software!
