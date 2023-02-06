@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'm Konosuke, a student developer.
 I love open source softwares!
 I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
+Pastel colors are awesome!
 
 - 🌱 I’m currently learning [V programming language](https://github.com/vlang/v)
 - 📫 How to reach me: w32w64@gmail.com
