@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## :smile: Hi There!
 
-[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&hide_border=true&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&layout=compact&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&hide_border=true&layout=compact&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Konosuke, a student developer.
 I love open source softwares!
