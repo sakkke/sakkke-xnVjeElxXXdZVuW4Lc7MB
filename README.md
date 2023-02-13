@@ -23,7 +23,7 @@ I'm Konosuke.
 I'm a student developer.
 I love open source softwares and projects!
 I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
-Pastel colors are awesome!
+Pastel colors are awesome! 🐱
 
 - 🌱 I’m currently learning [V programming language](https://github.com/vlang/v)
 - 📫 How to reach me: w32w64@gmail.com
