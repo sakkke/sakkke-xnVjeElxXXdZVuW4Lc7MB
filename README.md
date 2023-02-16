@@ -26,6 +26,7 @@ I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
 Pastel colors are awesome! 🐱
 
 - 🌱 I’m currently learning [Zig](https://github.com/ziglang/zig)
+- 👯 I’m looking to collaborate on creating a Linux distro
 - 📫 How to reach me: w32w64@gmail.com
 - 😄 Pronouns: he/him
 
