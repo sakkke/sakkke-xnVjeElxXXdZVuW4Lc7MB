@@ -25,6 +25,7 @@ I love open source softwares and projects!
 I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
 Pastel colors are awesome! 🐱
 
+- 🔭 I’m currently working on creating [xi](https://github.com/sakkke/xi)
 - 🌱 I’m currently learning [Zig](https://github.com/ziglang/zig)
 - 👯 I’m looking to collaborate on creating a Linux distro
 - 📫 How to reach me: w32w64@gmail.com
@@ -32,7 +33,6 @@ Pastel colors are awesome! 🐱
 
 ### :bird: Operating System Freedoms for All
 
-I'm currently creating [xi](https://github.com/sakkke/xi).
 It's a Debian-based Linux distro inspired by Windows 11.
 You can download [xi.iso](https://www.dropbox.com/s/ro9m4bdk7k8drk4/xi.iso?dl=1) directly (powered by [Dropbox](https://www.dropbox.com/), thanks!).
 xi installation is in [the xi documentation](https://github.com/sakkke/xi).
