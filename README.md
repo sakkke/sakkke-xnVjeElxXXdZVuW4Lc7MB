@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm Konosuke.
 I'm a student developer.
 I love open source softwares and projects!
-I'm one of the port maintainers of [Catppuccin](https://github.com/catppuccin).
+I'm one of the port maintainers of [Catppuccin](https://catppuccin.com/).
 Pastel colors are awesome! 🐱
 
 - 🔭 I’m currently working on creating [xi](https://github.com/sakkke/xi)
