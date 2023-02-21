@@ -34,11 +34,13 @@ Pastel colors are awesome! 🐱
 
 ### :bird: Operating System Freedoms for All
 
+This is xi.
 It's a Debian-based Linux distro inspired by Windows 11.
+It includes some open source softwares.
 You can download [xi.iso](https://www.dropbox.com/s/ro9m4bdk7k8drk4/xi.iso?dl=1) directly (powered by [Dropbox](https://www.dropbox.com/), thanks!).
 xi installation is in [the xi documentation](https://github.com/sakkke/xi).
 
 ![](https://raw.githubusercontent.com/sakkke/xi/main/assets/Screenshot_20230202_062320.png)
 
-Above is a screenshot of the development in progress.
+Above is a screenshot of the development [in progress](https://github.com/sakkke/xi/commits/main).
 I plan to add some minimum required features!
