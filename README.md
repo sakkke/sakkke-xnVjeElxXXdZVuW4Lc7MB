@@ -43,4 +43,4 @@ xi features and installation is in [the xi documentation](https://github.com/sak
 ![](https://raw.githubusercontent.com/sakkke/xi/main/assets/Screenshot_20230202_062320.png)
 
 Above is a screenshot of the development [in progress](https://github.com/sakkke/xi/commits/main).
-I plan to add some minimum required features!
+I plan to add some more features!
