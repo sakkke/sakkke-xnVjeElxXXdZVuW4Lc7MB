@@ -26,7 +26,7 @@ I'm one of the port maintainers of [Catppuccin](https://catppuccin.com/).
 In Catppuccin flavours, I love Macchiato especially.
 Pastel colors are awesome! 🐱
 
-- 🔭 I’m currently working on creating [xi]
+- 🔭 I’m currently working on creating [xi](https://github.com/sakkke/xi)
 - 🌱 I’m currently learning [Zig](https://github.com/ziglang/zig)
 - 👯 I’m looking to collaborate on creating a Linux distro
 - 📫 How to reach me: w32w64@gmail.com
@@ -34,7 +34,7 @@ Pastel colors are awesome! 🐱
 
 ### :bird: Operating System Freedoms for All
 
-This is [xi].
+This is [xi](https://github.com/sakkke/xi).
 It's a Debian-based Linux distro inspired by Windows 11.
 It includes some open source softwares.
 You can download [xi.iso](https://www.dropbox.com/s/ro9m4bdk7k8drk4/xi.iso?dl=1) directly (powered by [Dropbox](https://www.dropbox.com/), thanks!).
@@ -44,5 +44,3 @@ xi features and installation is in [the xi documentation](https://github.com/sak
 
 Above is a screenshot of the development [in progress](https://github.com/sakkke/xi/commits/main).
 I plan to add some more features!
-
-[xi]: https://github.com/sakkke/xi
