@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkke&hide_border=true&layout=compact&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Konosuke.
-I'm a student developer from Japan.
+I'm a student developer.
 I love open source softwares and projects!
 I'm one of the port maintainers of [Catppuccin](https://catppuccin.com/).
 In Catppuccin flavours, I love Macchiato especially.
