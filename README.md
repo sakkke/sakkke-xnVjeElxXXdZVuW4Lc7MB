@@ -36,7 +36,6 @@ Pastel colors are awesome! 🐱
 
 This is [xi](https://github.com/sakkke/xi).
 It's a Debian-based Linux distro inspired by Windows 11.
-It includes some open source softwares.
 You can download [xi.iso](https://www.dropbox.com/s/ro9m4bdk7k8drk4/xi.iso?dl=1) directly (powered by [Dropbox](https://www.dropbox.com/), thanks!).
 xi features and installation is in [the xi documentation](https://github.com/sakkke/xi).
 
