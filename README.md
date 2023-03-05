@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :smile: Hi There!
+## :smile: Hi there!
 
 [![Konosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkke&hide_border=true&show_icons=true&bg_color=000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,7 +32,7 @@ Pastel colors are awesome! 🐱
 - 📫 How to reach me: w32w64@gmail.com
 - 😄 Pronouns: he/him
 
-### :bird: Operating System Freedoms for All
+### :bird: Operating system freedoms for all
 
 This is [xi](https://github.com/sakkke/xi).
 It's a Debian-based Linux distro inspired by Windows 11.
