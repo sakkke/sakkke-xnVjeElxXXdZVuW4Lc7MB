@@ -23,7 +23,7 @@ I'm Konosuke.
 I'm a student developer.
 I love open source softwares and projects!
 I'm one of the port maintainers of [Catppuccin](https://catppuccin.com/).
-In Catppuccin flavours, I love Macchiato especially.
+In Catppuccin flavours, I love macchiato especially.
 Pastel colors are awesome! 🐱
 
 - 🔭 I’m currently working on creating [xi](https://github.com/sakkke/xi)
